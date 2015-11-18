@@ -1,976 +1,976 @@
-Year,District,Indicators,Value
-2011,Achham,Population,256102
-2011,Achham,Poverty Incidence,0.472
-2011,Achham,Standard Error of Poverty Incidence,0.102
-2011,Achham,Poverty Gap,0.127
-2011,Achham,Standard Error of Poverty Gap,0.04
-2011,Achham,Poverty Severity,0.047
-2011,Achham,Standard Error of Poverty Severity,0.018
-2011,Arghakhanchi,Population,196873
-2011,Arghakhanchi,Poverty Incidence,0.288
-2011,Arghakhanchi,Standard Error of Poverty Incidence,0.05
-2011,Arghakhanchi,Poverty Gap,0.069
-2011,Arghakhanchi,Standard Error of Poverty Gap,0.016
-2011,Arghakhanchi,Poverty Severity,0.024
-2011,Arghakhanchi,Standard Error of Poverty Severity,0.007
-2011,Baglung,Population,266622
-2011,Baglung,Poverty Incidence,0.229
-2011,Baglung,Standard Error of Poverty Incidence,0.04
-2011,Baglung,Poverty Gap,0.053
-2011,Baglung,Standard Error of Poverty Gap,0.012
-2011,Baglung,Poverty Severity,0.018
-2011,Baglung,Standard Error of Poverty Severity,0.005
-2011,Baitadi,Population,250065
-2011,Baitadi,Poverty Incidence,0.457
-2011,Baitadi,Standard Error of Poverty Incidence,0.101
-2011,Baitadi,Poverty Gap,0.123
-2011,Baitadi,Standard Error of Poverty Gap,0.039
-2011,Baitadi,Poverty Severity,0.046
-2011,Baitadi,Standard Error of Poverty Severity,0.018
-2011,Bajhang,Population,194515
-2011,Bajhang,Poverty Incidence,0.568
-2011,Bajhang,Standard Error of Poverty Incidence,0.112
-2011,Bajhang,Poverty Gap,0.162
-2011,Bajhang,Standard Error of Poverty Gap,0.05
-2011,Bajhang,Poverty Severity,0.063
-2011,Bajhang,Standard Error of Poverty Severity,0.024
-2011,Bajura,Population,134062
-2011,Bajura,Poverty Incidence,0.641
-2011,Bajura,Standard Error of Poverty Incidence,0.105
-2011,Bajura,Poverty Gap,0.199
-2011,Bajura,Standard Error of Poverty Gap,0.055
-2011,Bajura,Poverty Severity,0.082
-2011,Bajura,Standard Error of Poverty Severity,0.029
-2011,Banke,Population,484592
-2011,Banke,Poverty Incidence,0.264
-2011,Banke,Standard Error of Poverty Incidence,0.073
-2011,Banke,Poverty Gap,0.066
-2011,Banke,Standard Error of Poverty Gap,0.025
-2011,Banke,Poverty Severity,0.024
-2011,Banke,Standard Error of Poverty Severity,0.011
-2011,Bara,Population,680094
-2011,Bara,Poverty Incidence,0.299
-2011,Bara,Standard Error of Poverty Incidence,0.019
-2011,Bara,Poverty Gap,0.072
-2011,Bara,Standard Error of Poverty Gap,0.007
-2011,Bara,Poverty Severity,0.025
-2011,Bara,Standard Error of Poverty Severity,0.003
-2011,Bardiya,Population,422812
-2011,Bardiya,Poverty Incidence,0.287
-2011,Bardiya,Standard Error of Poverty Incidence,0.082
-2011,Bardiya,Poverty Gap,0.071
-2011,Bardiya,Standard Error of Poverty Gap,0.026
-2011,Bardiya,Poverty Severity,0.025
-2011,Bardiya,Standard Error of Poverty Severity,0.011
-2011,Bhaktapur,Population,296705
-2011,Bhaktapur,Poverty Incidence,0.125
-2011,Bhaktapur,Standard Error of Poverty Incidence,0.014
-2011,Bhaktapur,Poverty Gap,0.029
-2011,Bhaktapur,Standard Error of Poverty Gap,0.004
-2011,Bhaktapur,Poverty Severity,0.01
-2011,Bhaktapur,Standard Error of Poverty Severity,0.002
-2011,Bhojpur,Population,181203
-2011,Bhojpur,Poverty Incidence,0.244
-2011,Bhojpur,Standard Error of Poverty Incidence,0.028
-2011,Bhojpur,Poverty Gap,0.048
-2011,Bhojpur,Standard Error of Poverty Gap,0.007
-2011,Bhojpur,Poverty Severity,0.014
-2011,Bhojpur,Standard Error of Poverty Severity,0.003
-2011,Chitawan,Population,567992
-2011,Chitawan,Poverty Incidence,0.089
-2011,Chitawan,Standard Error of Poverty Incidence,0.011
-2011,Chitawan,Poverty Gap,0.017
-2011,Chitawan,Standard Error of Poverty Gap,0.003
-2011,Chitawan,Poverty Severity,0.005
-2011,Chitawan,Standard Error of Poverty Severity,0.001
-2011,Dadeldhura,Population,140779
-2011,Dadeldhura,Poverty Incidence,0.433
-2011,Dadeldhura,Standard Error of Poverty Incidence,0.101
-2011,Dadeldhura,Poverty Gap,0.118
-2011,Dadeldhura,Standard Error of Poverty Gap,0.039
-2011,Dadeldhura,Poverty Severity,0.045
-2011,Dadeldhura,Standard Error of Poverty Severity,0.018
-2011,Dailekh,Population,260826
-2011,Dailekh,Poverty Incidence,0.358
-2011,Dailekh,Standard Error of Poverty Incidence,0.1
-2011,Dailekh,Poverty Gap,0.088
-2011,Dailekh,Standard Error of Poverty Gap,0.034
-2011,Dailekh,Poverty Severity,0.031
-2011,Dailekh,Standard Error of Poverty Severity,0.014
-2011,Dang,Population,547926
-2011,Dang,Poverty Incidence,0.251
-2011,Dang,Standard Error of Poverty Incidence,0.08
-2011,Dang,Poverty Gap,0.059
-2011,Dang,Standard Error of Poverty Gap,0.026
-2011,Dang,Poverty Severity,0.02
-2011,Dang,Standard Error of Poverty Severity,0.011
-2011,Darchula,Population,132081
-2011,Darchula,Poverty Incidence,0.53
-2011,Darchula,Standard Error of Poverty Incidence,0.109
-2011,Darchula,Poverty Gap,0.152
-2011,Darchula,Standard Error of Poverty Gap,0.048
-2011,Darchula,Poverty Severity,0.059
-2011,Darchula,Standard Error of Poverty Severity,0.024
-2011,Dhading,Population,333978
-2011,Dhading,Poverty Incidence,0.188
-2011,Dhading,Standard Error of Poverty Incidence,0.018
-2011,Dhading,Poverty Gap,0.038
-2011,Dhading,Standard Error of Poverty Gap,0.005
-2011,Dhading,Poverty Severity,0.012
-2011,Dhading,Standard Error of Poverty Severity,0.002
-2011,Dhankuta,Population,161288
-2011,Dhankuta,Poverty Incidence,0.159
-2011,Dhankuta,Standard Error of Poverty Incidence,0.019
-2011,Dhankuta,Poverty Gap,0.029
-2011,Dhankuta,Standard Error of Poverty Gap,0.005
-2011,Dhankuta,Poverty Severity,0.008
-2011,Dhankuta,Standard Error of Poverty Severity,0.002
-2011,Dhanusa,Population,752253
-2011,Dhanusa,Poverty Incidence,0.231
-2011,Dhanusa,Standard Error of Poverty Incidence,0.018
-2011,Dhanusa,Poverty Gap,0.046
-2011,Dhanusa,Standard Error of Poverty Gap,0.005
-2011,Dhanusa,Poverty Severity,0.014
-2011,Dhanusa,Standard Error of Poverty Severity,0.002
-2011,Dolakha,Population,184931
-2011,Dolakha,Poverty Incidence,0.26
-2011,Dolakha,Standard Error of Poverty Incidence,0.03
-2011,Dolakha,Poverty Gap,0.057
-2011,Dolakha,Standard Error of Poverty Gap,0.009
-2011,Dolakha,Poverty Severity,0.018
-2011,Dolakha,Standard Error of Poverty Severity,0.004
-2011,Dolpa,Population,36110
-2011,Dolpa,Poverty Incidence,0.428
-2011,Dolpa,Standard Error of Poverty Incidence,0.106
-2011,Dolpa,Poverty Gap,0.11
-2011,Dolpa,Standard Error of Poverty Gap,0.039
-2011,Dolpa,Poverty Severity,0.04
-2011,Dolpa,Standard Error of Poverty Severity,0.017
-2011,Doti,Population,206671
-2011,Doti,Poverty Incidence,0.489
-2011,Doti,Standard Error of Poverty Incidence,0.101
-2011,Doti,Poverty Gap,0.135
-2011,Doti,Standard Error of Poverty Gap,0.042
-2011,Doti,Poverty Severity,0.052
-2011,Doti,Standard Error of Poverty Severity,0.02
-2011,Gorkha,Population,268862
-2011,Gorkha,Poverty Incidence,0.204
-2011,Gorkha,Standard Error of Poverty Incidence,0.039
-2011,Gorkha,Poverty Gap,0.049
-2011,Gorkha,Standard Error of Poverty Gap,0.011
-2011,Gorkha,Poverty Severity,0.018
-2011,Gorkha,Standard Error of Poverty Severity,0.005
-2011,Gulmi,Population,279005
-2011,Gulmi,Poverty Incidence,0.256
-2011,Gulmi,Standard Error of Poverty Incidence,0.048
-2011,Gulmi,Poverty Gap,0.059
-2011,Gulmi,Standard Error of Poverty Gap,0.015
-2011,Gulmi,Poverty Severity,0.02
-2011,Gulmi,Standard Error of Poverty Severity,0.006
-2011,Humla,Population,49914
-2011,Humla,Poverty Incidence,0.56
-2011,Humla,Standard Error of Poverty Incidence,0.103
-2011,Humla,Poverty Gap,0.166
-2011,Humla,Standard Error of Poverty Gap,0.048
-2011,Humla,Poverty Severity,0.067
-2011,Humla,Standard Error of Poverty Severity,0.024
-2011,Ilam,Population,287734
-2011,Ilam,Poverty Incidence,0.073
-2011,Ilam,Standard Error of Poverty Incidence,0.011
-2011,Ilam,Poverty Gap,0.012
-2011,Ilam,Standard Error of Poverty Gap,0.002
-2011,Ilam,Poverty Severity,0.003
-2011,Ilam,Standard Error of Poverty Severity,0.001
-2011,Jajarkot,Population,170090
-2011,Jajarkot,Poverty Incidence,0.377
-2011,Jajarkot,Standard Error of Poverty Incidence,0.104
-2011,Jajarkot,Poverty Gap,0.09
-2011,Jajarkot,Standard Error of Poverty Gap,0.035
-2011,Jajarkot,Poverty Severity,0.031
-2011,Jajarkot,Standard Error of Poverty Severity,0.014
-2011,Jhapa,Population,807308
-2011,Jhapa,Poverty Incidence,0.106
-2011,Jhapa,Standard Error of Poverty Incidence,0.011
-2011,Jhapa,Poverty Gap,0.019
-2011,Jhapa,Standard Error of Poverty Gap,0.003
-2011,Jhapa,Poverty Severity,0.005
-2011,Jhapa,Standard Error of Poverty Severity,0.001
-2011,Jumla,Population,107395
-2011,Jumla,Poverty Incidence,0.49
-2011,Jumla,Standard Error of Poverty Incidence,0.113
-2011,Jumla,Poverty Gap,0.131
-2011,Jumla,Standard Error of Poverty Gap,0.045
-2011,Jumla,Poverty Severity,0.049
-2011,Jumla,Standard Error of Poverty Severity,0.021
-2011,Kailali,Population,765487
-2011,Kailali,Poverty Incidence,0.336
-2011,Kailali,Standard Error of Poverty Incidence,0.091
-2011,Kailali,Poverty Gap,0.084
-2011,Kailali,Standard Error of Poverty Gap,0.031
-2011,Kailali,Poverty Severity,0.03
-2011,Kailali,Standard Error of Poverty Severity,0.013
-2011,Kalikot,Population,135939
-2011,Kalikot,Poverty Incidence,0.579
-2011,Kalikot,Standard Error of Poverty Incidence,0.101
-2011,Kalikot,Poverty Gap,0.168
-2011,Kalikot,Standard Error of Poverty Gap,0.047
-2011,Kalikot,Poverty Severity,0.066
-2011,Kalikot,Standard Error of Poverty Severity,0.023
-2011,Kanchanpur,Population,447645
-2011,Kanchanpur,Poverty Incidence,0.314
-2011,Kanchanpur,Standard Error of Poverty Incidence,0.08
-2011,Kanchanpur,Poverty Gap,0.08
-2011,Kanchanpur,Standard Error of Poverty Gap,0.028
-2011,Kanchanpur,Poverty Severity,0.029
-2011,Kanchanpur,Standard Error of Poverty Severity,0.012
-2011,Kapilbastu,Population,568692
-2011,Kapilbastu,Poverty Incidence,0.355
-2011,Kapilbastu,Standard Error of Poverty Incidence,0.052
-2011,Kapilbastu,Poverty Gap,0.089
-2011,Kapilbastu,Standard Error of Poverty Gap,0.018
-2011,Kapilbastu,Poverty Severity,0.032
-2011,Kapilbastu,Standard Error of Poverty Severity,0.008
-2011,Kaski,Population,480851
-2011,Kaski,Poverty Incidence,0.04
-2011,Kaski,Standard Error of Poverty Incidence,0.011
-2011,Kaski,Poverty Gap,0.008
-2011,Kaski,Standard Error of Poverty Gap,0.003
-2011,Kaski,Poverty Severity,0.003
-2011,Kaski,Standard Error of Poverty Severity,0.001
-2011,Kathmandu,Population,1688131
-2011,Kathmandu,Poverty Incidence,0.076
-2011,Kathmandu,Standard Error of Poverty Incidence,0.006
-2011,Kathmandu,Poverty Gap,0.015
-2011,Kathmandu,Standard Error of Poverty Gap,0.002
-2011,Kathmandu,Poverty Severity,0.005
-2011,Kathmandu,Standard Error of Poverty Severity,0.001
-2011,Kavrepalanchok,Population,375040
-2011,Kavrepalanchok,Poverty Incidence,0.139
-2011,Kavrepalanchok,Standard Error of Poverty Incidence,0.019
-2011,Kavrepalanchok,Poverty Gap,0.025
-2011,Kavrepalanchok,Standard Error of Poverty Gap,0.005
-2011,Kavrepalanchok,Poverty Severity,0.007
-2011,Kavrepalanchok,Standard Error of Poverty Severity,0.002
-2011,Khotang,Population,205176
-2011,Khotang,Poverty Incidence,0.25
-2011,Khotang,Standard Error of Poverty Incidence,0.027
-2011,Khotang,Poverty Gap,0.05
-2011,Khotang,Standard Error of Poverty Gap,0.007
-2011,Khotang,Poverty Severity,0.015
-2011,Khotang,Standard Error of Poverty Severity,0.003
-2011,Lalitpur,Population,453466
-2011,Lalitpur,Poverty Incidence,0.076
-2011,Lalitpur,Standard Error of Poverty Incidence,0.008
-2011,Lalitpur,Poverty Gap,0.015
-2011,Lalitpur,Standard Error of Poverty Gap,0.002
-2011,Lalitpur,Poverty Severity,0.005
-2011,Lalitpur,Standard Error of Poverty Severity,0.001
-2011,Lamjung,Population,166141
-2011,Lamjung,Poverty Incidence,0.168
-2011,Lamjung,Standard Error of Poverty Incidence,0.033
-2011,Lamjung,Poverty Gap,0.039
-2011,Lamjung,Standard Error of Poverty Gap,0.009
-2011,Lamjung,Poverty Severity,0.013
-2011,Lamjung,Standard Error of Poverty Severity,0.004
-2011,Mahottari,Population,621023
-2011,Mahottari,Poverty Incidence,0.162
-2011,Mahottari,Standard Error of Poverty Incidence,0.029
-2011,Mahottari,Poverty Gap,0.035
-2011,Mahottari,Standard Error of Poverty Gap,0.009
-2011,Mahottari,Poverty Severity,0.011
-2011,Mahottari,Standard Error of Poverty Severity,0.004
-2011,Makwanpur,Population,414476
-2011,Makwanpur,Poverty Incidence,0.279
-2011,Makwanpur,Standard Error of Poverty Incidence,0.02
-2011,Makwanpur,Poverty Gap,0.073
-2011,Makwanpur,Standard Error of Poverty Gap,0.008
-2011,Makwanpur,Poverty Severity,0.027
-2011,Makwanpur,Standard Error of Poverty Severity,0.004
-2011,Manang,Population,5827
-2011,Manang,Poverty Incidence,0.369
-2011,Manang,Standard Error of Poverty Incidence,0.056
-2011,Manang,Poverty Gap,0.099
-2011,Manang,Standard Error of Poverty Gap,0.02
-2011,Manang,Poverty Severity,0.038
-2011,Manang,Standard Error of Poverty Severity,0.009
-2011,Morang,Population,958579
-2011,Morang,Poverty Incidence,0.165
-2011,Morang,Standard Error of Poverty Incidence,0.011
-2011,Morang,Poverty Gap,0.033
-2011,Morang,Standard Error of Poverty Gap,0.003
-2011,Morang,Poverty Severity,0.01
-2011,Morang,Standard Error of Poverty Severity,0.001
-2011,Mugu,Population,54789
-2011,Mugu,Poverty Incidence,0.471
-2011,Mugu,Standard Error of Poverty Incidence,0.115
-2011,Mugu,Poverty Gap,0.125
-2011,Mugu,Standard Error of Poverty Gap,0.045
-2011,Mugu,Poverty Severity,0.047
-2011,Mugu,Standard Error of Poverty Severity,0.021
-2011,Mustang,Population,11585
-2011,Mustang,Poverty Incidence,0.4
-2011,Mustang,Standard Error of Poverty Incidence,0.055
-2011,Mustang,Poverty Gap,0.109
-2011,Mustang,Standard Error of Poverty Gap,0.02
-2011,Mustang,Poverty Severity,0.042
-2011,Mustang,Standard Error of Poverty Severity,0.009
-2011,Myagdi,Population,109598
-2011,Myagdi,Poverty Incidence,0.286
-2011,Myagdi,Standard Error of Poverty Incidence,0.044
-2011,Myagdi,Poverty Gap,0.073
-2011,Myagdi,Standard Error of Poverty Gap,0.015
-2011,Myagdi,Poverty Severity,0.027
-2011,Myagdi,Standard Error of Poverty Severity,0.007
-2011,Nawalparasi,Population,638836
-2011,Nawalparasi,Poverty Incidence,0.17
-2011,Nawalparasi,Standard Error of Poverty Incidence,0.031
-2011,Nawalparasi,Poverty Gap,0.038
-2011,Nawalparasi,Standard Error of Poverty Gap,0.009
-2011,Nawalparasi,Poverty Severity,0.013
-2011,Nawalparasi,Standard Error of Poverty Severity,0.003
-2011,Nuwakot,Population,275344
-2011,Nuwakot,Poverty Incidence,0.203
-2011,Nuwakot,Standard Error of Poverty Incidence,0.019
-2011,Nuwakot,Poverty Gap,0.042
-2011,Nuwakot,Standard Error of Poverty Gap,0.005
-2011,Nuwakot,Poverty Severity,0.013
-2011,Nuwakot,Standard Error of Poverty Severity,0.002
-2011,Okhaldhunga,Population,146782
-2011,Okhaldhunga,Poverty Incidence,0.205
-2011,Okhaldhunga,Standard Error of Poverty Incidence,0.023
-2011,Okhaldhunga,Poverty Gap,0.041
-2011,Okhaldhunga,Standard Error of Poverty Gap,0.006
-2011,Okhaldhunga,Poverty Severity,0.012
-2011,Okhaldhunga,Standard Error of Poverty Severity,0.002
-2011,Palpa,Population,258842
-2011,Palpa,Poverty Incidence,0.216
-2011,Palpa,Standard Error of Poverty Incidence,0.038
-2011,Palpa,Poverty Gap,0.052
-2011,Palpa,Standard Error of Poverty Gap,0.012
-2011,Palpa,Poverty Severity,0.018
-2011,Palpa,Standard Error of Poverty Severity,0.005
-2011,Panchthar,Population,190394
-2011,Panchthar,Poverty Incidence,0.114
-2011,Panchthar,Standard Error of Poverty Incidence,0.02
-2011,Panchthar,Poverty Gap,0.019
-2011,Panchthar,Standard Error of Poverty Gap,0.004
-2011,Panchthar,Poverty Severity,0.005
-2011,Panchthar,Standard Error of Poverty Severity,0.001
-2011,Parbat,Population,145657
-2011,Parbat,Poverty Incidence,0.127
-2011,Parbat,Standard Error of Poverty Incidence,0.029
-2011,Parbat,Poverty Gap,0.025
-2011,Parbat,Standard Error of Poverty Gap,0.007
-2011,Parbat,Poverty Severity,0.008
-2011,Parbat,Standard Error of Poverty Severity,0.002
-2011,Parsa,Population,592108
-2011,Parsa,Poverty Incidence,0.292
-2011,Parsa,Standard Error of Poverty Incidence,0.02
-2011,Parsa,Poverty Gap,0.071
-2011,Parsa,Standard Error of Poverty Gap,0.007
-2011,Parsa,Poverty Severity,0.025
-2011,Parsa,Standard Error of Poverty Severity,0.003
-2011,Pyuthan,Population,226128
-2011,Pyuthan,Poverty Incidence,0.322
-2011,Pyuthan,Standard Error of Poverty Incidence,0.087
-2011,Pyuthan,Poverty Gap,0.079
-2011,Pyuthan,Standard Error of Poverty Gap,0.029
-2011,Pyuthan,Poverty Severity,0.028
-2011,Pyuthan,Standard Error of Poverty Severity,0.012
-2011,Ramechhap,Population,201202
-2011,Ramechhap,Poverty Incidence,0.256
-2011,Ramechhap,Standard Error of Poverty Incidence,0.023
-2011,Ramechhap,Poverty Gap,0.056
-2011,Ramechhap,Standard Error of Poverty Gap,0.007
-2011,Ramechhap,Poverty Severity,0.018
-2011,Ramechhap,Standard Error of Poverty Severity,0.003
-2011,Rasuwa,Population,42125
-2011,Rasuwa,Poverty Incidence,0.316
-2011,Rasuwa,Standard Error of Poverty Incidence,0.043
-2011,Rasuwa,Poverty Gap,0.072
-2011,Rasuwa,Standard Error of Poverty Gap,0.015
-2011,Rasuwa,Poverty Severity,0.024
-2011,Rasuwa,Standard Error of Poverty Severity,0.006
-2011,Rautahat,Population,680659
-2011,Rautahat,Poverty Incidence,0.334
-2011,Rautahat,Standard Error of Poverty Incidence,0.018
-2011,Rautahat,Poverty Gap,0.083
-2011,Rautahat,Standard Error of Poverty Gap,0.006
-2011,Rautahat,Poverty Severity,0.029
-2011,Rautahat,Standard Error of Poverty Severity,0.003
-2011,Rolpa,Population,221170
-2011,Rolpa,Poverty Incidence,0.26
-2011,Rolpa,Standard Error of Poverty Incidence,0.087
-2011,Rolpa,Poverty Gap,0.056
-2011,Rolpa,Standard Error of Poverty Gap,0.025
-2011,Rolpa,Poverty Severity,0.018
-2011,Rolpa,Standard Error of Poverty Severity,0.009
-2011,Rukum,Population,207279
-2011,Rukum,Poverty Incidence,0.263
-2011,Rukum,Standard Error of Poverty Incidence,0.092
-2011,Rukum,Poverty Gap,0.058
-2011,Rukum,Standard Error of Poverty Gap,0.026
-2011,Rukum,Poverty Severity,0.019
-2011,Rukum,Standard Error of Poverty Severity,0.01
-2011,Rupandehi,Population,873314
-2011,Rupandehi,Poverty Incidence,0.173
-2011,Rupandehi,Standard Error of Poverty Incidence,0.029
-2011,Rupandehi,Poverty Gap,0.041
-2011,Rupandehi,Standard Error of Poverty Gap,0.009
-2011,Rupandehi,Poverty Severity,0.014
-2011,Rupandehi,Standard Error of Poverty Severity,0.004
-2011,Salyan,Population,241685
-2011,Salyan,Poverty Incidence,0.288
-2011,Salyan,Standard Error of Poverty Incidence,0.088
-2011,Salyan,Poverty Gap,0.063
-2011,Salyan,Standard Error of Poverty Gap,0.026
-2011,Salyan,Poverty Severity,0.021
-2011,Salyan,Standard Error of Poverty Severity,0.01
-2011,Sankhuwasabha,Population,158139
-2011,Sankhuwasabha,Poverty Incidence,0.21
-2011,Sankhuwasabha,Standard Error of Poverty Incidence,0.031
-2011,Sankhuwasabha,Poverty Gap,0.041
-2011,Sankhuwasabha,Standard Error of Poverty Gap,0.008
-2011,Sankhuwasabha,Poverty Severity,0.012
-2011,Sankhuwasabha,Standard Error of Poverty Severity,0.003
-2011,Saptari,Population,637071
-2011,Saptari,Poverty Incidence,0.395
-2011,Saptari,Standard Error of Poverty Incidence,0.019
-2011,Saptari,Poverty Gap,0.1
-2011,Saptari,Standard Error of Poverty Gap,0.008
-2011,Saptari,Poverty Severity,0.036
-2011,Saptari,Standard Error of Poverty Severity,0.004
-2011,Sarlahi,Population,765959
-2011,Sarlahi,Poverty Incidence,0.177
-2011,Sarlahi,Standard Error of Poverty Incidence,0.018
-2011,Sarlahi,Poverty Gap,0.036
-2011,Sarlahi,Standard Error of Poverty Gap,0.005
-2011,Sarlahi,Poverty Severity,0.011
-2011,Sarlahi,Standard Error of Poverty Severity,0.002
-2011,Sindhuli,Population,292988
-2011,Sindhuli,Poverty Incidence,0.383
-2011,Sindhuli,Standard Error of Poverty Incidence,0.031
-2011,Sindhuli,Poverty Gap,0.099
-2011,Sindhuli,Standard Error of Poverty Gap,0.012
-2011,Sindhuli,Poverty Severity,0.036
-2011,Sindhuli,Standard Error of Poverty Severity,0.006
-2011,Sindhupalchok,Population,285652
-2011,Sindhupalchok,Poverty Incidence,0.254
-2011,Sindhupalchok,Standard Error of Poverty Incidence,0.031
-2011,Sindhupalchok,Poverty Gap,0.054
-2011,Sindhupalchok,Standard Error of Poverty Gap,0.009
-2011,Sindhupalchok,Poverty Severity,0.017
-2011,Sindhupalchok,Standard Error of Poverty Severity,0.004
-2011,Siraha,Population,634844
-2011,Siraha,Poverty Incidence,0.346
-2011,Siraha,Standard Error of Poverty Incidence,0.019
-2011,Siraha,Poverty Gap,0.08
-2011,Siraha,Standard Error of Poverty Gap,0.007
-2011,Siraha,Poverty Severity,0.027
-2011,Siraha,Standard Error of Poverty Severity,0.003
-2011,Solukhumbu,Population,105080
-2011,Solukhumbu,Poverty Incidence,0.257
-2011,Solukhumbu,Standard Error of Poverty Incidence,0.03
-2011,Solukhumbu,Poverty Gap,0.057
-2011,Solukhumbu,Standard Error of Poverty Gap,0.009
-2011,Solukhumbu,Poverty Severity,0.019
-2011,Solukhumbu,Standard Error of Poverty Severity,0.004
-2011,Sunsari,Population,750319
-2011,Sunsari,Poverty Incidence,0.12
-2011,Sunsari,Standard Error of Poverty Incidence,0.014
-2011,Sunsari,Poverty Gap,0.022
-2011,Sunsari,Standard Error of Poverty Gap,0.004
-2011,Sunsari,Poverty Severity,0.006
-2011,Sunsari,Standard Error of Poverty Severity,0.001
-2011,Surkhet,Population,343160
-2011,Surkhet,Poverty Incidence,0.305
-2011,Surkhet,Standard Error of Poverty Incidence,0.085
-2011,Surkhet,Poverty Gap,0.075
-2011,Surkhet,Standard Error of Poverty Gap,0.029
-2011,Surkhet,Poverty Severity,0.026
-2011,Surkhet,Standard Error of Poverty Severity,0.012
-2011,Syangja,Population,288097
-2011,Syangja,Poverty Incidence,0.118
-2011,Syangja,Standard Error of Poverty Incidence,0.027
-2011,Syangja,Poverty Gap,0.024
-2011,Syangja,Standard Error of Poverty Gap,0.007
-2011,Syangja,Poverty Severity,0.007
-2011,Syangja,Standard Error of Poverty Severity,0.002
-2011,Tanahu,Population,320532
-2011,Tanahu,Poverty Incidence,0.148
-2011,Tanahu,Standard Error of Poverty Incidence,0.028
-2011,Tanahu,Poverty Gap,0.033
-2011,Tanahu,Standard Error of Poverty Gap,0.008
-2011,Tanahu,Poverty Severity,0.011
-2011,Tanahu,Standard Error of Poverty Severity,0.003
-2011,Taplejung,Population,126404
-2011,Taplejung,Poverty Incidence,0.27
-2011,Taplejung,Standard Error of Poverty Incidence,0.034
-2011,Taplejung,Poverty Gap,0.055
-2011,Taplejung,Standard Error of Poverty Gap,0.01
-2011,Taplejung,Poverty Severity,0.017
-2011,Taplejung,Standard Error of Poverty Severity,0.004
-2011,Terhathum,Population,100805
-2011,Terhathum,Poverty Incidence,0.146
-2011,Terhathum,Standard Error of Poverty Incidence,0.02
-2011,Terhathum,Poverty Gap,0.025
-2011,Terhathum,Standard Error of Poverty Gap,0.005
-2011,Terhathum,Poverty Severity,0.007
-2011,Terhathum,Standard Error of Poverty Severity,0.002
-2011,Udayapur,Population,315251
-2011,Udayapur,Poverty Incidence,0.259
-2011,Udayapur,Standard Error of Poverty Incidence,0.022
-2011,Udayapur,Poverty Gap,0.058
-2011,Udayapur,Standard Error of Poverty Gap,0.007
-2011,Udayapur,Poverty Severity,0.019
-2011,Udayapur,Standard Error of Poverty Severity,0.003
-2001,Taplejung,Poverty Incidence,0.518
-2001,Taplejung,Standard Error of Poverty Incidence,0.025
-2001,Taplejung,Poverty Gap,0.17
-2001,Taplejung,Standard Error of Poverty Gap,0.012
-2001,Taplejung,Poverty Severity,0.075
-2001,Taplejung,Standard Error of Poverty Severity,0.007
-2001,Panchthar,Poverty Incidence,0.525
-2001,Panchthar,Standard Error of Poverty Incidence,0.022
-2001,Panchthar,Poverty Gap,0.17
-2001,Panchthar,Standard Error of Poverty Gap,0.011
-2001,Panchthar,Poverty Severity,0.074
-2001,Panchthar,Standard Error of Poverty Severity,0.006
-2001,Ilam,Poverty Incidence,0.397
-2001,Ilam,Standard Error of Poverty Incidence,0.017
-2001,Ilam,Poverty Gap,0.121
-2001,Ilam,Standard Error of Poverty Gap,0.008
-2001,Ilam,Poverty Severity,0.051
-2001,Ilam,Standard Error of Poverty Severity,0.005
-2001,Jhapa,Poverty Incidence,0.134
-2001,Jhapa,Standard Error of Poverty Incidence,0.013
-2001,Jhapa,Poverty Gap,0.031
-2001,Jhapa,Standard Error of Poverty Gap,0.004
-2001,Jhapa,Poverty Severity,0.011
-2001,Jhapa,Standard Error of Poverty Severity,0.001
-2001,Morang,Poverty Incidence,0.172
-2001,Morang,Standard Error of Poverty Incidence,0.011
-2001,Morang,Poverty Gap,0.041
-2001,Morang,Standard Error of Poverty Gap,0.003
-2001,Morang,Poverty Severity,0.015
-2001,Morang,Standard Error of Poverty Severity,0.001
-2001,Sunsari,Poverty Incidence,0.212
-2001,Sunsari,Standard Error of Poverty Incidence,0.014
-2001,Sunsari,Poverty Gap,0.052
-2001,Sunsari,Standard Error of Poverty Gap,0.004
-2001,Sunsari,Poverty Severity,0.019
-2001,Sunsari,Standard Error of Poverty Severity,0.002
-2001,Dhankuta,Poverty Incidence,0.46
-2001,Dhankuta,Standard Error of Poverty Incidence,0.021
-2001,Dhankuta,Poverty Gap,0.144
-2001,Dhankuta,Standard Error of Poverty Gap,0.01
-2001,Dhankuta,Poverty Severity,0.062
-2001,Dhankuta,Standard Error of Poverty Severity,0.005
-2001,Terhathum,Poverty Incidence,0.425
-2001,Terhathum,Standard Error of Poverty Incidence,0.022
-2001,Terhathum,Poverty Gap,0.13
-2001,Terhathum,Standard Error of Poverty Gap,0.01
-2001,Terhathum,Poverty Severity,0.055
-2001,Terhathum,Standard Error of Poverty Severity,0.005
-2001,Sankhuwasabha,Poverty Incidence,0.487
-2001,Sankhuwasabha,Standard Error of Poverty Incidence,0.026
-2001,Sankhuwasabha,Poverty Gap,0.151
-2001,Sankhuwasabha,Standard Error of Poverty Gap,0.011
-2001,Sankhuwasabha,Poverty Severity,0.064
-2001,Sankhuwasabha,Standard Error of Poverty Severity,0.006
-2001,Bhojpur,Poverty Incidence,0.525
-2001,Bhojpur,Standard Error of Poverty Incidence,0.021
-2001,Bhojpur,Poverty Gap,0.168
-2001,Bhojpur,Standard Error of Poverty Gap,0.01
-2001,Bhojpur,Poverty Severity,0.073
-2001,Bhojpur,Standard Error of Poverty Severity,0.006
-2001,Solukhumbu,Poverty Incidence,0.463
-2001,Solukhumbu,Standard Error of Poverty Incidence,0.037
-2001,Solukhumbu,Poverty Gap,0.141
-2001,Solukhumbu,Standard Error of Poverty Gap,0.016
-2001,Solukhumbu,Poverty Severity,0.059
-2001,Solukhumbu,Standard Error of Poverty Severity,0.008
-2001,Okhaldhunga,Poverty Incidence,0.427
-2001,Okhaldhunga,Standard Error of Poverty Incidence,0.034
-2001,Okhaldhunga,Poverty Gap,0.128
-2001,Okhaldhunga,Standard Error of Poverty Gap,0.014
-2001,Okhaldhunga,Poverty Severity,0.053
-2001,Okhaldhunga,Standard Error of Poverty Severity,0.007
-2001,Khotang,Poverty Incidence,0.535
-2001,Khotang,Standard Error of Poverty Incidence,0.023
-2001,Khotang,Poverty Gap,0.175
-2001,Khotang,Standard Error of Poverty Gap,0.012
-2001,Khotang,Poverty Severity,0.077
-2001,Khotang,Standard Error of Poverty Severity,0.007
-2001,Udayapur,Poverty Incidence,0.508
-2001,Udayapur,Standard Error of Poverty Incidence,0.021
-2001,Udayapur,Poverty Gap,0.161
-2001,Udayapur,Standard Error of Poverty Gap,0.01
-2001,Udayapur,Poverty Severity,0.069
-2001,Udayapur,Standard Error of Poverty Severity,0.006
-2001,Saptari,Poverty Incidence,0.28
-2001,Saptari,Standard Error of Poverty Incidence,0.017
-2001,Saptari,Poverty Gap,0.068
-2001,Saptari,Standard Error of Poverty Gap,0.005
-2001,Saptari,Poverty Severity,0.024
-2001,Saptari,Standard Error of Poverty Severity,0.002
-2001,Siraha,Poverty Incidence,0.29
-2001,Siraha,Standard Error of Poverty Incidence,0.018
-2001,Siraha,Poverty Gap,0.07
-2001,Siraha,Standard Error of Poverty Gap,0.006
-2001,Siraha,Poverty Severity,0.025
-2001,Siraha,Standard Error of Poverty Severity,0.003
-2001,Dhanusa,Poverty Incidence,0.269
-2001,Dhanusa,Standard Error of Poverty Incidence,0.019
-2001,Dhanusa,Poverty Gap,0.063
-2001,Dhanusa,Standard Error of Poverty Gap,0.006
-2001,Dhanusa,Poverty Severity,0.022
-2001,Dhanusa,Standard Error of Poverty Severity,0.002
-2001,Mahottari,Poverty Incidence,0.291
-2001,Mahottari,Standard Error of Poverty Incidence,0.023
-2001,Mahottari,Poverty Gap,0.069
-2001,Mahottari,Standard Error of Poverty Gap,0.008
-2001,Mahottari,Poverty Severity,0.024
-2001,Mahottari,Standard Error of Poverty Severity,0.003
-2001,Sarlahi,Poverty Incidence,0.264
-2001,Sarlahi,Standard Error of Poverty Incidence,0.022
-2001,Sarlahi,Poverty Gap,0.061
-2001,Sarlahi,Standard Error of Poverty Gap,0.007
-2001,Sarlahi,Poverty Severity,0.021
-2001,Sarlahi,Standard Error of Poverty Severity,0.003
-2001,Sindhuli,Poverty Incidence,0.603
-2001,Sindhuli,Standard Error of Poverty Incidence,0.018
-2001,Sindhuli,Poverty Gap,0.209
-2001,Sindhuli,Standard Error of Poverty Gap,0.012
-2001,Sindhuli,Poverty Severity,0.094
-2001,Sindhuli,Standard Error of Poverty Severity,0.007
-2001,Ramechhap,Poverty Incidence,0.48
-2001,Ramechhap,Standard Error of Poverty Incidence,0.023
-2001,Ramechhap,Poverty Gap,0.148
-2001,Ramechhap,Standard Error of Poverty Gap,0.011
-2001,Ramechhap,Poverty Severity,0.063
-2001,Ramechhap,Standard Error of Poverty Severity,0.006
-2001,Dolakha,Poverty Incidence,0.336
-2001,Dolakha,Standard Error of Poverty Incidence,0.017
-2001,Dolakha,Poverty Gap,0.092
-2001,Dolakha,Standard Error of Poverty Gap,0.007
-2001,Dolakha,Poverty Severity,0.036
-2001,Dolakha,Standard Error of Poverty Severity,0.003
-2001,Sindhupalchok,Poverty Incidence,0.37
-2001,Sindhupalchok,Standard Error of Poverty Incidence,0.016
-2001,Sindhupalchok,Poverty Gap,0.102
-2001,Sindhupalchok,Standard Error of Poverty Gap,0.006
-2001,Sindhupalchok,Poverty Severity,0.04
-2001,Sindhupalchok,Standard Error of Poverty Severity,0.003
-2001,Kavrepalanchok,Poverty Incidence,0.351
-2001,Kavrepalanchok,Standard Error of Poverty Incidence,0.014
-2001,Kavrepalanchok,Poverty Gap,0.111
-2001,Kavrepalanchok,Standard Error of Poverty Gap,0.007
-2001,Kavrepalanchok,Poverty Severity,0.048
-2001,Kavrepalanchok,Standard Error of Poverty Severity,0.004
-2001,Lalitpur,Poverty Incidence,0.101
-2001,Lalitpur,Standard Error of Poverty Incidence,0.009
-2001,Lalitpur,Poverty Gap,0.028
-2001,Lalitpur,Standard Error of Poverty Gap,0.003
-2001,Lalitpur,Poverty Severity,0.011
-2001,Lalitpur,Standard Error of Poverty Severity,0.001
-2001,Bhaktapur,Poverty Incidence,0.087
-2001,Bhaktapur,Standard Error of Poverty Incidence,0.014
-2001,Bhaktapur,Poverty Gap,0.02
-2001,Bhaktapur,Standard Error of Poverty Gap,0.004
-2001,Bhaktapur,Poverty Severity,0.007
-2001,Bhaktapur,Standard Error of Poverty Severity,0.002
-2001,Kathmandu,Poverty Incidence,0.044
-2001,Kathmandu,Standard Error of Poverty Incidence,0.007
-2001,Kathmandu,Poverty Gap,0.01
-2001,Kathmandu,Standard Error of Poverty Gap,0.002
-2001,Kathmandu,Poverty Severity,0.004
-2001,Kathmandu,Standard Error of Poverty Severity,0.001
-2001,Nuwakot,Poverty Incidence,0.374
-2001,Nuwakot,Standard Error of Poverty Incidence,0.016
-2001,Nuwakot,Poverty Gap,0.109
-2001,Nuwakot,Standard Error of Poverty Gap,0.007
-2001,Nuwakot,Poverty Severity,0.044
-2001,Nuwakot,Standard Error of Poverty Severity,0.004
-2001,Rasuwa,Poverty Incidence,0.509
-2001,Rasuwa,Standard Error of Poverty Incidence,0.026
-2001,Rasuwa,Poverty Gap,0.162
-2001,Rasuwa,Standard Error of Poverty Gap,0.014
-2001,Rasuwa,Poverty Severity,0.069
-2001,Rasuwa,Standard Error of Poverty Severity,0.008
-2001,Dhading,Poverty Incidence,0.433
-2001,Dhading,Standard Error of Poverty Incidence,0.017
-2001,Dhading,Poverty Gap,0.133
-2001,Dhading,Standard Error of Poverty Gap,0.008
-2001,Dhading,Poverty Severity,0.056
-2001,Dhading,Standard Error of Poverty Severity,0.004
-2001,Makwanpur,Poverty Incidence,0.43
-2001,Makwanpur,Standard Error of Poverty Incidence,0.016
-2001,Makwanpur,Poverty Gap,0.141
-2001,Makwanpur,Standard Error of Poverty Gap,0.01
-2001,Makwanpur,Poverty Severity,0.062
-2001,Makwanpur,Standard Error of Poverty Severity,0.006
-2001,Rautahat,Poverty Incidence,0.302
-2001,Rautahat,Standard Error of Poverty Incidence,0.021
-2001,Rautahat,Poverty Gap,0.071
-2001,Rautahat,Standard Error of Poverty Gap,0.007
-2001,Rautahat,Poverty Severity,0.025
-2001,Rautahat,Standard Error of Poverty Severity,0.003
-2001,Bara,Poverty Incidence,0.269
-2001,Bara,Standard Error of Poverty Incidence,0.022
-2001,Bara,Poverty Gap,0.063
-2001,Bara,Standard Error of Poverty Gap,0.007
-2001,Bara,Poverty Severity,0.022
-2001,Bara,Standard Error of Poverty Severity,0.003
-2001,Parsa,Poverty Incidence,0.235
-2001,Parsa,Standard Error of Poverty Incidence,0.019
-2001,Parsa,Poverty Gap,0.055
-2001,Parsa,Standard Error of Poverty Gap,0.006
-2001,Parsa,Poverty Severity,0.019
-2001,Parsa,Standard Error of Poverty Severity,0.002
-2001,Chitawan,Poverty Incidence,0.119
-2001,Chitawan,Standard Error of Poverty Incidence,0.01
-2001,Chitawan,Poverty Gap,0.029
-2001,Chitawan,Standard Error of Poverty Gap,0.003
-2001,Chitawan,Poverty Severity,0.011
-2001,Chitawan,Standard Error of Poverty Severity,0.001
-2001,Gorkha,Poverty Incidence,0.382
-2001,Gorkha,Standard Error of Poverty Incidence,0.017
-2001,Gorkha,Poverty Gap,0.112
-2001,Gorkha,Standard Error of Poverty Gap,0.007
-2001,Gorkha,Poverty Severity,0.046
-2001,Gorkha,Standard Error of Poverty Severity,0.004
-2001,Lamjung,Poverty Incidence,0.315
-2001,Lamjung,Standard Error of Poverty Incidence,0.016
-2001,Lamjung,Poverty Gap,0.091
-2001,Lamjung,Standard Error of Poverty Gap,0.006
-2001,Lamjung,Poverty Severity,0.037
-2001,Lamjung,Standard Error of Poverty Severity,0.003
-2001,Tanahu,Poverty Incidence,0.346
-2001,Tanahu,Standard Error of Poverty Incidence,0.019
-2001,Tanahu,Poverty Gap,0.105
-2001,Tanahu,Standard Error of Poverty Gap,0.008
-2001,Tanahu,Poverty Severity,0.044
-2001,Tanahu,Standard Error of Poverty Severity,0.005
-2001,Syangja,Poverty Incidence,0.351
-2001,Syangja,Standard Error of Poverty Incidence,0.02
-2001,Syangja,Poverty Gap,0.105
-2001,Syangja,Standard Error of Poverty Gap,0.009
-2001,Syangja,Poverty Severity,0.044
-2001,Syangja,Standard Error of Poverty Severity,0.005
-2001,Kaski,Poverty Incidence,0.111
-2001,Kaski,Standard Error of Poverty Incidence,0.008
-2001,Kaski,Poverty Gap,0.029
-2001,Kaski,Standard Error of Poverty Gap,0.003
-2001,Kaski,Poverty Severity,0.012
-2001,Kaski,Standard Error of Poverty Severity,0.001
-2001,Manang,Poverty Incidence,0.212
-2001,Manang,Standard Error of Poverty Incidence,0.048
-2001,Manang,Poverty Gap,0.051
-2001,Manang,Standard Error of Poverty Gap,0.015
-2001,Manang,Poverty Severity,0.018
-2001,Manang,Standard Error of Poverty Severity,0.006
-2001,Mustang,Poverty Incidence,0.258
-2001,Mustang,Standard Error of Poverty Incidence,0.043
-2001,Mustang,Poverty Gap,0.064
-2001,Mustang,Standard Error of Poverty Gap,0.015
-2001,Mustang,Poverty Severity,0.023
-2001,Mustang,Standard Error of Poverty Severity,0.007
-2001,Myagdi,Poverty Incidence,0.348
-2001,Myagdi,Standard Error of Poverty Incidence,0.021
-2001,Myagdi,Poverty Gap,0.098
-2001,Myagdi,Standard Error of Poverty Gap,0.008
-2001,Myagdi,Poverty Severity,0.039
-2001,Myagdi,Standard Error of Poverty Severity,0.004
-2001,Parbat,Poverty Incidence,0.341
-2001,Parbat,Standard Error of Poverty Incidence,0.017
-2001,Parbat,Poverty Gap,0.1
-2001,Parbat,Standard Error of Poverty Gap,0.007
-2001,Parbat,Poverty Severity,0.041
-2001,Parbat,Standard Error of Poverty Severity,0.004
-2001,Baglung,Poverty Incidence,0.402
-2001,Baglung,Standard Error of Poverty Incidence,0.018
-2001,Baglung,Poverty Gap,0.12
-2001,Baglung,Standard Error of Poverty Gap,0.008
-2001,Baglung,Poverty Severity,0.05
-2001,Baglung,Standard Error of Poverty Severity,0.004
-2001,Gulmi,Poverty Incidence,0.425
-2001,Gulmi,Standard Error of Poverty Incidence,0.019
-2001,Gulmi,Poverty Gap,0.131
-2001,Gulmi,Standard Error of Poverty Gap,0.009
-2001,Gulmi,Poverty Severity,0.056
-2001,Gulmi,Standard Error of Poverty Severity,0.005
-2001,Palpa,Poverty Incidence,0.429
-2001,Palpa,Standard Error of Poverty Incidence,0.02
-2001,Palpa,Poverty Gap,0.135
-2001,Palpa,Standard Error of Poverty Gap,0.01
-2001,Palpa,Poverty Severity,0.058
-2001,Palpa,Standard Error of Poverty Severity,0.006
-2001,Nawalparasi,Poverty Incidence,0.363
-2001,Nawalparasi,Standard Error of Poverty Incidence,0.017
-2001,Nawalparasi,Poverty Gap,0.109
-2001,Nawalparasi,Standard Error of Poverty Gap,0.007
-2001,Nawalparasi,Poverty Severity,0.045
-2001,Nawalparasi,Standard Error of Poverty Severity,0.004
-2001,Rupandehi,Poverty Incidence,0.3
-2001,Rupandehi,Standard Error of Poverty Incidence,0.02
-2001,Rupandehi,Poverty Gap,0.084
-2001,Rupandehi,Standard Error of Poverty Gap,0.008
-2001,Rupandehi,Poverty Severity,0.034
-2001,Rupandehi,Standard Error of Poverty Severity,0.004
-2001,Kapilbastu,Poverty Incidence,0.401
-2001,Kapilbastu,Standard Error of Poverty Incidence,0.026
-2001,Kapilbastu,Poverty Gap,0.115
-2001,Kapilbastu,Standard Error of Poverty Gap,0.011
-2001,Kapilbastu,Poverty Severity,0.046
-2001,Kapilbastu,Standard Error of Poverty Severity,0.005
-2001,Arghakhanchi,Poverty Incidence,0.441
-2001,Arghakhanchi,Standard Error of Poverty Incidence,0.02
-2001,Arghakhanchi,Poverty Gap,0.137
-2001,Arghakhanchi,Standard Error of Poverty Gap,0.009
-2001,Arghakhanchi,Poverty Severity,0.059
-2001,Arghakhanchi,Standard Error of Poverty Severity,0.005
-2001,Pyuthan,Poverty Incidence,0.515
-2001,Pyuthan,Standard Error of Poverty Incidence,0.023
-2001,Pyuthan,Poverty Gap,0.164
-2001,Pyuthan,Standard Error of Poverty Gap,0.012
-2001,Pyuthan,Poverty Severity,0.071
-2001,Pyuthan,Standard Error of Poverty Severity,0.007
-2001,Rolpa,Poverty Incidence,0.587
-2001,Rolpa,Standard Error of Poverty Incidence,0.025
-2001,Rolpa,Poverty Gap,0.184
-2001,Rolpa,Standard Error of Poverty Gap,0.013
-2001,Rolpa,Poverty Severity,0.078
-2001,Rolpa,Standard Error of Poverty Severity,0.007
-2001,Rukum,Poverty Incidence,0.491
-2001,Rukum,Standard Error of Poverty Incidence,0.029
-2001,Rukum,Poverty Gap,0.143
-2001,Rukum,Standard Error of Poverty Gap,0.013
-2001,Rukum,Poverty Severity,0.058
-2001,Rukum,Standard Error of Poverty Severity,0.006
-2001,Salyan,Poverty Incidence,0.455
-2001,Salyan,Standard Error of Poverty Incidence,0.025
-2001,Salyan,Poverty Gap,0.133
-2001,Salyan,Standard Error of Poverty Gap,0.011
-2001,Salyan,Poverty Severity,0.054
-2001,Salyan,Standard Error of Poverty Severity,0.006
-2001,Dang,Poverty Incidence,0.429
-2001,Dang,Standard Error of Poverty Incidence,0.018
-2001,Dang,Poverty Gap,0.127
-2001,Dang,Standard Error of Poverty Gap,0.008
-2001,Dang,Poverty Severity,0.052
-2001,Dang,Standard Error of Poverty Severity,0.004
-2001,Banke,Poverty Incidence,0.412
-2001,Banke,Standard Error of Poverty Incidence,0.024
-2001,Banke,Poverty Gap,0.124
-2001,Banke,Standard Error of Poverty Gap,0.011
-2001,Banke,Poverty Severity,0.051
-2001,Banke,Standard Error of Poverty Severity,0.006
-2001,Bardiya,Poverty Incidence,0.449
-2001,Bardiya,Standard Error of Poverty Incidence,0.026
-2001,Bardiya,Poverty Gap,0.128
-2001,Bardiya,Standard Error of Poverty Gap,0.011
-2001,Bardiya,Poverty Severity,0.051
-2001,Bardiya,Standard Error of Poverty Severity,0.005
-2001,Surkhet,Poverty Incidence,0.47
-2001,Surkhet,Standard Error of Poverty Incidence,0.018
-2001,Surkhet,Poverty Gap,0.147
-2001,Surkhet,Standard Error of Poverty Gap,0.009
-2001,Surkhet,Poverty Severity,0.062
-2001,Surkhet,Standard Error of Poverty Severity,0.005
-2001,Dailekh,Poverty Incidence,0.516
-2001,Dailekh,Standard Error of Poverty Incidence,0.021
-2001,Dailekh,Poverty Gap,0.159
-2001,Dailekh,Standard Error of Poverty Gap,0.01
-2001,Dailekh,Poverty Severity,0.067
-2001,Dailekh,Standard Error of Poverty Severity,0.006
-2001,Jajarkot,Poverty Incidence,0.441
-2001,Jajarkot,Standard Error of Poverty Incidence,0.025
-2001,Jajarkot,Poverty Gap,0.124
-2001,Jajarkot,Standard Error of Poverty Gap,0.011
-2001,Jajarkot,Poverty Severity,0.049
-2001,Jajarkot,Standard Error of Poverty Severity,0.005
-2001,Dolpa,Poverty Incidence,0.397
-2001,Dolpa,Standard Error of Poverty Incidence,0.054
-2001,Dolpa,Poverty Gap,0.105
-2001,Dolpa,Standard Error of Poverty Gap,0.02
-2001,Dolpa,Poverty Severity,0.04
-2001,Dolpa,Standard Error of Poverty Severity,0.009
-2001,Jumla,Poverty Incidence,0.344
-2001,Jumla,Standard Error of Poverty Incidence,0.044
-2001,Jumla,Poverty Gap,0.086
-2001,Jumla,Standard Error of Poverty Gap,0.014
-2001,Jumla,Poverty Severity,0.031
-2001,Jumla,Standard Error of Poverty Severity,0.006
-2001,Kalikot,Poverty Incidence,0.568
-2001,Kalikot,Standard Error of Poverty Incidence,0.061
-2001,Kalikot,Poverty Gap,0.18
-2001,Kalikot,Standard Error of Poverty Gap,0.029
-2001,Kalikot,Poverty Severity,0.076
-2001,Kalikot,Standard Error of Poverty Severity,0.016
-2001,Mugu,Poverty Incidence,0.51
-2001,Mugu,Standard Error of Poverty Incidence,0.04
-2001,Mugu,Poverty Gap,0.155
-2001,Mugu,Standard Error of Poverty Gap,0.018
-2001,Mugu,Poverty Severity,0.065
-2001,Mugu,Standard Error of Poverty Severity,0.01
-2001,Humla,Poverty Incidence,0.415
-2001,Humla,Standard Error of Poverty Incidence,0.043
-2001,Humla,Poverty Gap,0.111
-2001,Humla,Standard Error of Poverty Gap,0.015
-2001,Humla,Poverty Severity,0.042
-2001,Humla,Standard Error of Poverty Severity,0.007
-2001,Bajura,Poverty Incidence,0.482
-2001,Bajura,Standard Error of Poverty Incidence,0.022
-2001,Bajura,Poverty Gap,0.148
-2001,Bajura,Standard Error of Poverty Gap,0.01
-2001,Bajura,Poverty Severity,0.063
-2001,Bajura,Standard Error of Poverty Severity,0.006
-2001,Bajhang,Poverty Incidence,0.473
-2001,Bajhang,Standard Error of Poverty Incidence,0.025
-2001,Bajhang,Poverty Gap,0.143
-2001,Bajhang,Standard Error of Poverty Gap,0.011
-2001,Bajhang,Poverty Severity,0.06
-2001,Bajhang,Standard Error of Poverty Severity,0.006
-2001,Achham,Poverty Incidence,0.516
-2001,Achham,Standard Error of Poverty Incidence,0.023
-2001,Achham,Poverty Gap,0.16
-2001,Achham,Standard Error of Poverty Gap,0.011
-2001,Achham,Poverty Severity,0.068
-2001,Achham,Standard Error of Poverty Severity,0.006
-2001,Doti,Poverty Incidence,0.464
-2001,Doti,Standard Error of Poverty Incidence,0.024
-2001,Doti,Poverty Gap,0.143
-2001,Doti,Standard Error of Poverty Gap,0.011
-2001,Doti,Poverty Severity,0.061
-2001,Doti,Standard Error of Poverty Severity,0.006
-2001,Kailali,Poverty Incidence,0.504
-2001,Kailali,Standard Error of Poverty Incidence,0.026
-2001,Kailali,Poverty Gap,0.155
-2001,Kailali,Standard Error of Poverty Gap,0.012
-2001,Kailali,Poverty Severity,0.065
-2001,Kailali,Standard Error of Poverty Severity,0.007
-2001,Kanchanpur,Poverty Incidence,0.424
-2001,Kanchanpur,Standard Error of Poverty Incidence,0.024
-2001,Kanchanpur,Poverty Gap,0.128
-2001,Kanchanpur,Standard Error of Poverty Gap,0.011
-2001,Kanchanpur,Poverty Severity,0.054
-2001,Kanchanpur,Standard Error of Poverty Severity,0.006
-2001,Dadeldhura,Poverty Incidence,0.403
-2001,Dadeldhura,Standard Error of Poverty Incidence,0.024
-2001,Dadeldhura,Poverty Gap,0.119
-2001,Dadeldhura,Standard Error of Poverty Gap,0.01
-2001,Dadeldhura,Poverty Severity,0.049
-2001,Dadeldhura,Standard Error of Poverty Severity,0.005
-2001,Baitadi,Poverty Incidence,0.368
-2001,Baitadi,Standard Error of Poverty Incidence,0.025
-2001,Baitadi,Poverty Gap,0.101
-2001,Baitadi,Standard Error of Poverty Gap,0.01
-2001,Baitadi,Poverty Severity,0.04
-2001,Baitadi,Standard Error of Poverty Severity,0.005
-2001,Darchula,Poverty Incidence,0.377
-2001,Darchula,Standard Error of Poverty Incidence,0.024
-2001,Darchula,Poverty Gap,0.109
-2001,Darchula,Standard Error of Poverty Gap,0.01
-2001,Darchula,Poverty Severity,0.044
-2001,Darchula,Standard Error of Poverty Severity,0.005
+Year AD,Year BS,District,Zone,Geographical Region,Development Region,Indicators,Value
+2011,2068,Achham,Seti,Hill,Far-Western,Population,256102.0
+2011,2068,Achham,Seti,Hill,Far-Western,Poverty Incidence,0.472
+2011,2068,Achham,Seti,Hill,Far-Western,Standard Error of Poverty Incidence,0.102
+2011,2068,Achham,Seti,Hill,Far-Western,Poverty Gap,0.127
+2011,2068,Achham,Seti,Hill,Far-Western,Standard Error of Poverty Gap,0.04
+2011,2068,Achham,Seti,Hill,Far-Western,Poverty Severity,0.047
+2011,2068,Achham,Seti,Hill,Far-Western,Standard Error of Poverty Severity,0.018000000000000002
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Population,196873.0
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Poverty Incidence,0.28800000000000003
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Standard Error of Poverty Incidence,0.05
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Poverty Gap,0.069
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Standard Error of Poverty Gap,0.016
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Poverty Severity,0.024
+2011,2068,Arghakhanchi,Lumbini,Hill,Western,Standard Error of Poverty Severity,0.006999999999999999
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Population,266622.0
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Poverty Incidence,0.229
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Standard Error of Poverty Incidence,0.04
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Poverty Gap,0.053
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Standard Error of Poverty Gap,0.012
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Poverty Severity,0.018000000000000002
+2011,2068,Baglung,Dhawalagiri,Hill,Western,Standard Error of Poverty Severity,0.005
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Population,250065.0
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Poverty Incidence,0.457
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Standard Error of Poverty Incidence,0.101
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Poverty Gap,0.123
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Standard Error of Poverty Gap,0.039
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Poverty Severity,0.046
+2011,2068,Baitadi,Mahakali,Hill,Far-Western,Standard Error of Poverty Severity,0.018000000000000002
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Population,194515.0
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Poverty Incidence,0.568
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Standard Error of Poverty Incidence,0.112
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Poverty Gap,0.162
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Standard Error of Poverty Gap,0.05
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Poverty Severity,0.063
+2011,2068,Bajhang,Seti,Mountain,Far-Western,Standard Error of Poverty Severity,0.024
+2011,2068,Bajura,Seti,Mountain,Far-Western,Population,134062.0
+2011,2068,Bajura,Seti,Mountain,Far-Western,Poverty Incidence,0.6409999999999999
+2011,2068,Bajura,Seti,Mountain,Far-Western,Standard Error of Poverty Incidence,0.105
+2011,2068,Bajura,Seti,Mountain,Far-Western,Poverty Gap,0.199
+2011,2068,Bajura,Seti,Mountain,Far-Western,Standard Error of Poverty Gap,0.055
+2011,2068,Bajura,Seti,Mountain,Far-Western,Poverty Severity,0.08199999999999999
+2011,2068,Bajura,Seti,Mountain,Far-Western,Standard Error of Poverty Severity,0.029
+2011,2068,Banke,Bheri,Terai,Mid-Western,Population,484592.0
+2011,2068,Banke,Bheri,Terai,Mid-Western,Poverty Incidence,0.264
+2011,2068,Banke,Bheri,Terai,Mid-Western,Standard Error of Poverty Incidence,0.073
+2011,2068,Banke,Bheri,Terai,Mid-Western,Poverty Gap,0.066
+2011,2068,Banke,Bheri,Terai,Mid-Western,Standard Error of Poverty Gap,0.025
+2011,2068,Banke,Bheri,Terai,Mid-Western,Poverty Severity,0.024
+2011,2068,Banke,Bheri,Terai,Mid-Western,Standard Error of Poverty Severity,0.011
+2011,2068,Bara,Narayani,Terai,Central,Population,680094.0
+2011,2068,Bara,Narayani,Terai,Central,Poverty Incidence,0.299
+2011,2068,Bara,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.019
+2011,2068,Bara,Narayani,Terai,Central,Poverty Gap,0.07200000000000001
+2011,2068,Bara,Narayani,Terai,Central,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Bara,Narayani,Terai,Central,Poverty Severity,0.025
+2011,2068,Bara,Narayani,Terai,Central,Standard Error of Poverty Severity,0.003
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Population,422812.0
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Poverty Incidence,0.287
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Standard Error of Poverty Incidence,0.08199999999999999
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Poverty Gap,0.071
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Standard Error of Poverty Gap,0.026
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Poverty Severity,0.025
+2011,2068,Bardiya,Bheri,Terai,Mid-Western,Standard Error of Poverty Severity,0.011
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Population,296705.0
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Poverty Incidence,0.125
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.014
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Poverty Gap,0.029
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.004
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Poverty Severity,0.01
+2011,2068,Bhaktapur,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.002
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Population,181203.0
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Poverty Incidence,0.244
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Standard Error of Poverty Incidence,0.028
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Poverty Gap,0.048
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Poverty Severity,0.014
+2011,2068,Bhojpur,Kosi,Hill,Eastern,Standard Error of Poverty Severity,0.003
+2011,2068,Chitawan,Narayani,Terai,Central,Population,567992.0
+2011,2068,Chitawan,Narayani,Terai,Central,Poverty Incidence,0.08900000000000001
+2011,2068,Chitawan,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.011
+2011,2068,Chitawan,Narayani,Terai,Central,Poverty Gap,0.017
+2011,2068,Chitawan,Narayani,Terai,Central,Standard Error of Poverty Gap,0.003
+2011,2068,Chitawan,Narayani,Terai,Central,Poverty Severity,0.005
+2011,2068,Chitawan,Narayani,Terai,Central,Standard Error of Poverty Severity,0.001
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Population,140779.0
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Poverty Incidence,0.433
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Standard Error of Poverty Incidence,0.101
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Poverty Gap,0.118
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Standard Error of Poverty Gap,0.039
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Poverty Severity,0.045
+2011,2068,Dadeldhura,Mahakali,Hill,Far-Western,Standard Error of Poverty Severity,0.018000000000000002
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Population,260826.0
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Poverty Incidence,0.358
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Standard Error of Poverty Incidence,0.1
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Poverty Gap,0.08800000000000001
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Standard Error of Poverty Gap,0.034
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Poverty Severity,0.031
+2011,2068,Dailekh,Bheri,Hill,Mid-Western,Standard Error of Poverty Severity,0.014
+2011,2068,Dang,Rapti,Terai,Mid-Western,Population,547926.0
+2011,2068,Dang,Rapti,Terai,Mid-Western,Poverty Incidence,0.251
+2011,2068,Dang,Rapti,Terai,Mid-Western,Standard Error of Poverty Incidence,0.08
+2011,2068,Dang,Rapti,Terai,Mid-Western,Poverty Gap,0.059
+2011,2068,Dang,Rapti,Terai,Mid-Western,Standard Error of Poverty Gap,0.026
+2011,2068,Dang,Rapti,Terai,Mid-Western,Poverty Severity,0.02
+2011,2068,Dang,Rapti,Terai,Mid-Western,Standard Error of Poverty Severity,0.011
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Population,132081.0
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Poverty Incidence,0.53
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Standard Error of Poverty Incidence,0.109
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Poverty Gap,0.152
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Standard Error of Poverty Gap,0.048
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Poverty Severity,0.059
+2011,2068,Darchaula,Mahakali,Mountain,Far-Western,Standard Error of Poverty Severity,0.024
+2011,2068,Dhading,Bagmati,Hill,Central,Population,333978.0
+2011,2068,Dhading,Bagmati,Hill,Central,Poverty Incidence,0.188
+2011,2068,Dhading,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.018000000000000002
+2011,2068,Dhading,Bagmati,Hill,Central,Poverty Gap,0.038
+2011,2068,Dhading,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.005
+2011,2068,Dhading,Bagmati,Hill,Central,Poverty Severity,0.012
+2011,2068,Dhading,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.002
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Population,161288.0
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Poverty Incidence,0.159
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Standard Error of Poverty Incidence,0.019
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Poverty Gap,0.029
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Standard Error of Poverty Gap,0.005
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Poverty Severity,0.008
+2011,2068,Dhankuta,Kosi,Hill,Eastern,Standard Error of Poverty Severity,0.002
+2011,2068,Dhanusa,Janakpur,Terai,Central,Population,752253.0
+2011,2068,Dhanusa,Janakpur,Terai,Central,Poverty Incidence,0.231
+2011,2068,Dhanusa,Janakpur,Terai,Central,Standard Error of Poverty Incidence,0.018000000000000002
+2011,2068,Dhanusa,Janakpur,Terai,Central,Poverty Gap,0.046
+2011,2068,Dhanusa,Janakpur,Terai,Central,Standard Error of Poverty Gap,0.005
+2011,2068,Dhanusa,Janakpur,Terai,Central,Poverty Severity,0.014
+2011,2068,Dhanusa,Janakpur,Terai,Central,Standard Error of Poverty Severity,0.002
+2011,2068,Dolakha,Janakpur,Mountain,Central,Population,184931.0
+2011,2068,Dolakha,Janakpur,Mountain,Central,Poverty Incidence,0.26
+2011,2068,Dolakha,Janakpur,Mountain,Central,Standard Error of Poverty Incidence,0.03
+2011,2068,Dolakha,Janakpur,Mountain,Central,Poverty Gap,0.057
+2011,2068,Dolakha,Janakpur,Mountain,Central,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Dolakha,Janakpur,Mountain,Central,Poverty Severity,0.018000000000000002
+2011,2068,Dolakha,Janakpur,Mountain,Central,Standard Error of Poverty Severity,0.004
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Population,36110.0
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Poverty Incidence,0.428
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.106
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Poverty Gap,0.11
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.039
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Poverty Severity,0.04
+2011,2068,Dolpa,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.017
+2011,2068,Doti,Seti,Hill,Far-Western,Population,206671.0
+2011,2068,Doti,Seti,Hill,Far-Western,Poverty Incidence,0.489
+2011,2068,Doti,Seti,Hill,Far-Western,Standard Error of Poverty Incidence,0.101
+2011,2068,Doti,Seti,Hill,Far-Western,Poverty Gap,0.135
+2011,2068,Doti,Seti,Hill,Far-Western,Standard Error of Poverty Gap,0.042
+2011,2068,Doti,Seti,Hill,Far-Western,Poverty Severity,0.052000000000000005
+2011,2068,Doti,Seti,Hill,Far-Western,Standard Error of Poverty Severity,0.02
+2011,2068,Gorkha,Gandaki,Hill,Western,Population,268862.0
+2011,2068,Gorkha,Gandaki,Hill,Western,Poverty Incidence,0.204
+2011,2068,Gorkha,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.039
+2011,2068,Gorkha,Gandaki,Hill,Western,Poverty Gap,0.049
+2011,2068,Gorkha,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.011
+2011,2068,Gorkha,Gandaki,Hill,Western,Poverty Severity,0.018000000000000002
+2011,2068,Gorkha,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.005
+2011,2068,Gulmi,Lumbini,Hill,Western,Population,279005.0
+2011,2068,Gulmi,Lumbini,Hill,Western,Poverty Incidence,0.256
+2011,2068,Gulmi,Lumbini,Hill,Western,Standard Error of Poverty Incidence,0.048
+2011,2068,Gulmi,Lumbini,Hill,Western,Poverty Gap,0.059
+2011,2068,Gulmi,Lumbini,Hill,Western,Standard Error of Poverty Gap,0.015
+2011,2068,Gulmi,Lumbini,Hill,Western,Poverty Severity,0.02
+2011,2068,Gulmi,Lumbini,Hill,Western,Standard Error of Poverty Severity,0.006
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Population,49914.0
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Poverty Incidence,0.56
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.103
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Poverty Gap,0.166
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.048
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Poverty Severity,0.067
+2011,2068,Humla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.024
+2011,2068,Ilam,Mechi,Hill,Eastern,Population,287734.0
+2011,2068,Ilam,Mechi,Hill,Eastern,Poverty Incidence,0.073
+2011,2068,Ilam,Mechi,Hill,Eastern,Standard Error of Poverty Incidence,0.011
+2011,2068,Ilam,Mechi,Hill,Eastern,Poverty Gap,0.012
+2011,2068,Ilam,Mechi,Hill,Eastern,Standard Error of Poverty Gap,0.002
+2011,2068,Ilam,Mechi,Hill,Eastern,Poverty Severity,0.003
+2011,2068,Ilam,Mechi,Hill,Eastern,Standard Error of Poverty Severity,0.001
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Population,170090.0
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Poverty Incidence,0.377
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Standard Error of Poverty Incidence,0.104
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Poverty Gap,0.09
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Standard Error of Poverty Gap,0.035
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Poverty Severity,0.031
+2011,2068,Jajarkot,Bheri,Hill,Mid-Western,Standard Error of Poverty Severity,0.014
+2011,2068,Jhapa,Mechi,Terai,Eastern,Population,807308.0
+2011,2068,Jhapa,Mechi,Terai,Eastern,Poverty Incidence,0.106
+2011,2068,Jhapa,Mechi,Terai,Eastern,Standard Error of Poverty Incidence,0.011
+2011,2068,Jhapa,Mechi,Terai,Eastern,Poverty Gap,0.019
+2011,2068,Jhapa,Mechi,Terai,Eastern,Standard Error of Poverty Gap,0.003
+2011,2068,Jhapa,Mechi,Terai,Eastern,Poverty Severity,0.005
+2011,2068,Jhapa,Mechi,Terai,Eastern,Standard Error of Poverty Severity,0.001
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Population,107395.0
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Poverty Incidence,0.49
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.113
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Poverty Gap,0.131
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.045
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Poverty Severity,0.049
+2011,2068,Jumla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.021
+2011,2068,Kailali,Seti,Terai,Far-Western,Population,765487.0
+2011,2068,Kailali,Seti,Terai,Far-Western,Poverty Incidence,0.336
+2011,2068,Kailali,Seti,Terai,Far-Western,Standard Error of Poverty Incidence,0.091
+2011,2068,Kailali,Seti,Terai,Far-Western,Poverty Gap,0.084
+2011,2068,Kailali,Seti,Terai,Far-Western,Standard Error of Poverty Gap,0.031
+2011,2068,Kailali,Seti,Terai,Far-Western,Poverty Severity,0.03
+2011,2068,Kailali,Seti,Terai,Far-Western,Standard Error of Poverty Severity,0.013
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Population,135939.0
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Poverty Incidence,0.579
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.101
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Poverty Gap,0.168
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.047
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Poverty Severity,0.066
+2011,2068,Kalikot,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.023
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Population,447645.0
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Poverty Incidence,0.314
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Standard Error of Poverty Incidence,0.08
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Poverty Gap,0.08
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Standard Error of Poverty Gap,0.028
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Poverty Severity,0.029
+2011,2068,Kanchanpur,Mahakali,Terai,Far-Western,Standard Error of Poverty Severity,0.012
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Population,568692.0
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Poverty Incidence,0.355
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Standard Error of Poverty Incidence,0.052000000000000005
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Poverty Gap,0.08900000000000001
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Standard Error of Poverty Gap,0.018000000000000002
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Poverty Severity,0.032
+2011,2068,Kapilbastu,Lumbini,Terai,Western,Standard Error of Poverty Severity,0.008
+2011,2068,Kaski,Gandaki,Hill,Western,Population,480851.0
+2011,2068,Kaski,Gandaki,Hill,Western,Poverty Incidence,0.04
+2011,2068,Kaski,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.011
+2011,2068,Kaski,Gandaki,Hill,Western,Poverty Gap,0.008
+2011,2068,Kaski,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.003
+2011,2068,Kaski,Gandaki,Hill,Western,Poverty Severity,0.003
+2011,2068,Kaski,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.001
+2011,2068,Kathmandu,Bagmati,Hill,Central,Population,1688131.0
+2011,2068,Kathmandu,Bagmati,Hill,Central,Poverty Incidence,0.076
+2011,2068,Kathmandu,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.006
+2011,2068,Kathmandu,Bagmati,Hill,Central,Poverty Gap,0.015
+2011,2068,Kathmandu,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.002
+2011,2068,Kathmandu,Bagmati,Hill,Central,Poverty Severity,0.005
+2011,2068,Kathmandu,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.001
+2011,2068,Kavre,Bagmati,Hill,Central,Population,375040.0
+2011,2068,Kavre,Bagmati,Hill,Central,Poverty Incidence,0.139
+2011,2068,Kavre,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.019
+2011,2068,Kavre,Bagmati,Hill,Central,Poverty Gap,0.025
+2011,2068,Kavre,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.005
+2011,2068,Kavre,Bagmati,Hill,Central,Poverty Severity,0.006999999999999999
+2011,2068,Kavre,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.002
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Population,205176.0
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Poverty Incidence,0.25
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Standard Error of Poverty Incidence,0.027000000000000003
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Poverty Gap,0.05
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Poverty Severity,0.015
+2011,2068,Khotang,Sagarmatha,Hill,Eastern,Standard Error of Poverty Severity,0.003
+2011,2068,Lalitpur,Bagmati,Hill,Central,Population,453466.0
+2011,2068,Lalitpur,Bagmati,Hill,Central,Poverty Incidence,0.076
+2011,2068,Lalitpur,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.008
+2011,2068,Lalitpur,Bagmati,Hill,Central,Poverty Gap,0.015
+2011,2068,Lalitpur,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.002
+2011,2068,Lalitpur,Bagmati,Hill,Central,Poverty Severity,0.005
+2011,2068,Lalitpur,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.001
+2011,2068,Lamjung,Gandaki,Hill,Western,Population,166141.0
+2011,2068,Lamjung,Gandaki,Hill,Western,Poverty Incidence,0.168
+2011,2068,Lamjung,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.033
+2011,2068,Lamjung,Gandaki,Hill,Western,Poverty Gap,0.039
+2011,2068,Lamjung,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Lamjung,Gandaki,Hill,Western,Poverty Severity,0.013
+2011,2068,Lamjung,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.004
+2011,2068,Mahottari,Janakpur,Terai,Central,Population,621023.0
+2011,2068,Mahottari,Janakpur,Terai,Central,Poverty Incidence,0.162
+2011,2068,Mahottari,Janakpur,Terai,Central,Standard Error of Poverty Incidence,0.029
+2011,2068,Mahottari,Janakpur,Terai,Central,Poverty Gap,0.035
+2011,2068,Mahottari,Janakpur,Terai,Central,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Mahottari,Janakpur,Terai,Central,Poverty Severity,0.011
+2011,2068,Mahottari,Janakpur,Terai,Central,Standard Error of Poverty Severity,0.004
+2011,2068,Makwanpur,Narayani,Hill,Central,Population,414476.0
+2011,2068,Makwanpur,Narayani,Hill,Central,Poverty Incidence,0.279
+2011,2068,Makwanpur,Narayani,Hill,Central,Standard Error of Poverty Incidence,0.02
+2011,2068,Makwanpur,Narayani,Hill,Central,Poverty Gap,0.073
+2011,2068,Makwanpur,Narayani,Hill,Central,Standard Error of Poverty Gap,0.008
+2011,2068,Makwanpur,Narayani,Hill,Central,Poverty Severity,0.027000000000000003
+2011,2068,Makwanpur,Narayani,Hill,Central,Standard Error of Poverty Severity,0.004
+2011,2068,Manang,Gandaki,Mountain,Western,Population,5827.0
+2011,2068,Manang,Gandaki,Mountain,Western,Poverty Incidence,0.369
+2011,2068,Manang,Gandaki,Mountain,Western,Standard Error of Poverty Incidence,0.056
+2011,2068,Manang,Gandaki,Mountain,Western,Poverty Gap,0.099
+2011,2068,Manang,Gandaki,Mountain,Western,Standard Error of Poverty Gap,0.02
+2011,2068,Manang,Gandaki,Mountain,Western,Poverty Severity,0.038
+2011,2068,Manang,Gandaki,Mountain,Western,Standard Error of Poverty Severity,0.009000000000000001
+2011,2068,Morang,Kosi,Terai,Eastern,Population,958579.0
+2011,2068,Morang,Kosi,Terai,Eastern,Poverty Incidence,0.165
+2011,2068,Morang,Kosi,Terai,Eastern,Standard Error of Poverty Incidence,0.011
+2011,2068,Morang,Kosi,Terai,Eastern,Poverty Gap,0.033
+2011,2068,Morang,Kosi,Terai,Eastern,Standard Error of Poverty Gap,0.003
+2011,2068,Morang,Kosi,Terai,Eastern,Poverty Severity,0.01
+2011,2068,Morang,Kosi,Terai,Eastern,Standard Error of Poverty Severity,0.001
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Population,54789.0
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Poverty Incidence,0.471
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.115
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Poverty Gap,0.125
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.045
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Poverty Severity,0.047
+2011,2068,Mugu,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.021
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Population,11585.0
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Poverty Incidence,0.4
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Standard Error of Poverty Incidence,0.055
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Poverty Gap,0.109
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Standard Error of Poverty Gap,0.02
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Poverty Severity,0.042
+2011,2068,Mustang,Dhawalagiri,Mountain,Western,Standard Error of Poverty Severity,0.009000000000000001
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Population,109598.0
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Poverty Incidence,0.28600000000000003
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Standard Error of Poverty Incidence,0.044
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Poverty Gap,0.073
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Standard Error of Poverty Gap,0.015
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Poverty Severity,0.027000000000000003
+2011,2068,Myagdi,Dhawalagiri,Hill,Western,Standard Error of Poverty Severity,0.006999999999999999
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Population,638836.0
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Poverty Incidence,0.17
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Standard Error of Poverty Incidence,0.031
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Poverty Gap,0.038
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Poverty Severity,0.013
+2011,2068,Nawalparasi,Lumbini,Terai,Western,Standard Error of Poverty Severity,0.003
+2011,2068,Nuwakot,Bagmati,Hill,Central,Population,275344.0
+2011,2068,Nuwakot,Bagmati,Hill,Central,Poverty Incidence,0.203
+2011,2068,Nuwakot,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.019
+2011,2068,Nuwakot,Bagmati,Hill,Central,Poverty Gap,0.042
+2011,2068,Nuwakot,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.005
+2011,2068,Nuwakot,Bagmati,Hill,Central,Poverty Severity,0.013
+2011,2068,Nuwakot,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.002
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Population,146782.0
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Poverty Incidence,0.205
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Standard Error of Poverty Incidence,0.023
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Poverty Gap,0.041
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Standard Error of Poverty Gap,0.006
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Poverty Severity,0.012
+2011,2068,Okhaldhunga,Sagarmatha,Hill,Eastern,Standard Error of Poverty Severity,0.002
+2011,2068,Palpa,Lumbini,Hill,Western,Population,258842.0
+2011,2068,Palpa,Lumbini,Hill,Western,Poverty Incidence,0.21600000000000005
+2011,2068,Palpa,Lumbini,Hill,Western,Standard Error of Poverty Incidence,0.038
+2011,2068,Palpa,Lumbini,Hill,Western,Poverty Gap,0.052000000000000005
+2011,2068,Palpa,Lumbini,Hill,Western,Standard Error of Poverty Gap,0.012
+2011,2068,Palpa,Lumbini,Hill,Western,Poverty Severity,0.018000000000000002
+2011,2068,Palpa,Lumbini,Hill,Western,Standard Error of Poverty Severity,0.005
+2011,2068,Panchthar,Mechi,Hill,Eastern,Population,190394.0
+2011,2068,Panchthar,Mechi,Hill,Eastern,Poverty Incidence,0.114
+2011,2068,Panchthar,Mechi,Hill,Eastern,Standard Error of Poverty Incidence,0.02
+2011,2068,Panchthar,Mechi,Hill,Eastern,Poverty Gap,0.019
+2011,2068,Panchthar,Mechi,Hill,Eastern,Standard Error of Poverty Gap,0.004
+2011,2068,Panchthar,Mechi,Hill,Eastern,Poverty Severity,0.005
+2011,2068,Panchthar,Mechi,Hill,Eastern,Standard Error of Poverty Severity,0.001
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Population,145657.0
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Poverty Incidence,0.127
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Standard Error of Poverty Incidence,0.029
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Poverty Gap,0.025
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Poverty Severity,0.008
+2011,2068,Parbat,Dhawalagiri,Hill,Western,Standard Error of Poverty Severity,0.002
+2011,2068,Parsa,Narayani,Terai,Central,Population,592108.0
+2011,2068,Parsa,Narayani,Terai,Central,Poverty Incidence,0.292
+2011,2068,Parsa,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.02
+2011,2068,Parsa,Narayani,Terai,Central,Poverty Gap,0.071
+2011,2068,Parsa,Narayani,Terai,Central,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Parsa,Narayani,Terai,Central,Poverty Severity,0.025
+2011,2068,Parsa,Narayani,Terai,Central,Standard Error of Poverty Severity,0.003
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Population,226128.0
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Poverty Incidence,0.322
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.087
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Poverty Gap,0.079
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.029
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Poverty Severity,0.028
+2011,2068,Pyuthan,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.012
+2011,2068,Ramechhap,Janakpur,Hill,Central,Population,201202.0
+2011,2068,Ramechhap,Janakpur,Hill,Central,Poverty Incidence,0.256
+2011,2068,Ramechhap,Janakpur,Hill,Central,Standard Error of Poverty Incidence,0.023
+2011,2068,Ramechhap,Janakpur,Hill,Central,Poverty Gap,0.056
+2011,2068,Ramechhap,Janakpur,Hill,Central,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Ramechhap,Janakpur,Hill,Central,Poverty Severity,0.018000000000000002
+2011,2068,Ramechhap,Janakpur,Hill,Central,Standard Error of Poverty Severity,0.003
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Population,42125.0
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Poverty Incidence,0.316
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Standard Error of Poverty Incidence,0.043
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Poverty Gap,0.07200000000000001
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Standard Error of Poverty Gap,0.015
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Poverty Severity,0.024
+2011,2068,Rasuwa,Bagmati,Mountain,Central,Standard Error of Poverty Severity,0.006
+2011,2068,Rautahat,Narayani,Terai,Central,Population,680659.0
+2011,2068,Rautahat,Narayani,Terai,Central,Poverty Incidence,0.334
+2011,2068,Rautahat,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.018000000000000002
+2011,2068,Rautahat,Narayani,Terai,Central,Poverty Gap,0.083
+2011,2068,Rautahat,Narayani,Terai,Central,Standard Error of Poverty Gap,0.006
+2011,2068,Rautahat,Narayani,Terai,Central,Poverty Severity,0.029
+2011,2068,Rautahat,Narayani,Terai,Central,Standard Error of Poverty Severity,0.003
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Population,221170.0
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Poverty Incidence,0.26
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.087
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Poverty Gap,0.056
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.025
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Poverty Severity,0.018000000000000002
+2011,2068,Rolpa,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.009000000000000001
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Population,207279.0
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Poverty Incidence,0.263
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.092
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Poverty Gap,0.058
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.026
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Poverty Severity,0.019
+2011,2068,Rukum,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.01
+2011,2068,Rupandehi,Lumbini,Terai,Western,Population,873314.0
+2011,2068,Rupandehi,Lumbini,Terai,Western,Poverty Incidence,0.173
+2011,2068,Rupandehi,Lumbini,Terai,Western,Standard Error of Poverty Incidence,0.029
+2011,2068,Rupandehi,Lumbini,Terai,Western,Poverty Gap,0.041
+2011,2068,Rupandehi,Lumbini,Terai,Western,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Rupandehi,Lumbini,Terai,Western,Poverty Severity,0.014
+2011,2068,Rupandehi,Lumbini,Terai,Western,Standard Error of Poverty Severity,0.004
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Population,241685.0
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Poverty Incidence,0.28800000000000003
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.08800000000000001
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Poverty Gap,0.063
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.026
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Poverty Severity,0.021
+2011,2068,Salyan,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.01
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Population,158139.0
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Poverty Incidence,0.21
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Standard Error of Poverty Incidence,0.031
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Poverty Gap,0.041
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Standard Error of Poverty Gap,0.008
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Poverty Severity,0.012
+2011,2068,Sankhuwasabha,Kosi,Mountain,Eastern,Standard Error of Poverty Severity,0.003
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Population,637071.0
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Poverty Incidence,0.395
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Standard Error of Poverty Incidence,0.019
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Poverty Gap,0.1
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Standard Error of Poverty Gap,0.008
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Poverty Severity,0.036000000000000004
+2011,2068,Saptari,Sagarmatha,Terai,Eastern,Standard Error of Poverty Severity,0.004
+2011,2068,Sarlahi,Janakpur,Terai,Central,Population,765959.0
+2011,2068,Sarlahi,Janakpur,Terai,Central,Poverty Incidence,0.177
+2011,2068,Sarlahi,Janakpur,Terai,Central,Standard Error of Poverty Incidence,0.018000000000000002
+2011,2068,Sarlahi,Janakpur,Terai,Central,Poverty Gap,0.036000000000000004
+2011,2068,Sarlahi,Janakpur,Terai,Central,Standard Error of Poverty Gap,0.005
+2011,2068,Sarlahi,Janakpur,Terai,Central,Poverty Severity,0.011
+2011,2068,Sarlahi,Janakpur,Terai,Central,Standard Error of Poverty Severity,0.002
+2011,2068,Sindhuli,Janakpur,Hill,Central,Population,292988.0
+2011,2068,Sindhuli,Janakpur,Hill,Central,Poverty Incidence,0.383
+2011,2068,Sindhuli,Janakpur,Hill,Central,Standard Error of Poverty Incidence,0.031
+2011,2068,Sindhuli,Janakpur,Hill,Central,Poverty Gap,0.099
+2011,2068,Sindhuli,Janakpur,Hill,Central,Standard Error of Poverty Gap,0.012
+2011,2068,Sindhuli,Janakpur,Hill,Central,Poverty Severity,0.036000000000000004
+2011,2068,Sindhuli,Janakpur,Hill,Central,Standard Error of Poverty Severity,0.006
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Population,285652.0
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Poverty Incidence,0.254
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Standard Error of Poverty Incidence,0.031
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Poverty Gap,0.054000000000000006
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Poverty Severity,0.017
+2011,2068,Sindhupalchok,Bagmati,Mountain,Central,Standard Error of Poverty Severity,0.004
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Population,634844.0
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Poverty Incidence,0.34600000000000003
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Standard Error of Poverty Incidence,0.019
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Poverty Gap,0.08
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Poverty Severity,0.027000000000000003
+2011,2068,Siraha,Sagarmatha,Terai,Eastern,Standard Error of Poverty Severity,0.003
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Population,105080.0
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Poverty Incidence,0.257
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Standard Error of Poverty Incidence,0.03
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Poverty Gap,0.057
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Standard Error of Poverty Gap,0.009000000000000001
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Poverty Severity,0.019
+2011,2068,Solukhumbu,Sagarmatha,Mountain,Eastern,Standard Error of Poverty Severity,0.004
+2011,2068,Sunsari,Kosi,Terai,Eastern,Population,750319.0
+2011,2068,Sunsari,Kosi,Terai,Eastern,Poverty Incidence,0.12
+2011,2068,Sunsari,Kosi,Terai,Eastern,Standard Error of Poverty Incidence,0.014
+2011,2068,Sunsari,Kosi,Terai,Eastern,Poverty Gap,0.022
+2011,2068,Sunsari,Kosi,Terai,Eastern,Standard Error of Poverty Gap,0.004
+2011,2068,Sunsari,Kosi,Terai,Eastern,Poverty Severity,0.006
+2011,2068,Sunsari,Kosi,Terai,Eastern,Standard Error of Poverty Severity,0.001
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Population,343160.0
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Poverty Incidence,0.305
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Standard Error of Poverty Incidence,0.085
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Poverty Gap,0.075
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Standard Error of Poverty Gap,0.029
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Poverty Severity,0.026
+2011,2068,Surkhet,Bheri,Hill,Mid-Western,Standard Error of Poverty Severity,0.012
+2011,2068,Syangja,Gandaki,Hill,Western,Population,288097.0
+2011,2068,Syangja,Gandaki,Hill,Western,Poverty Incidence,0.118
+2011,2068,Syangja,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.027000000000000003
+2011,2068,Syangja,Gandaki,Hill,Western,Poverty Gap,0.024
+2011,2068,Syangja,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Syangja,Gandaki,Hill,Western,Poverty Severity,0.006999999999999999
+2011,2068,Syangja,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.002
+2011,2068,Tanahu,Gandaki,Hill,Western,Population,320532.0
+2011,2068,Tanahu,Gandaki,Hill,Western,Poverty Incidence,0.14800000000000002
+2011,2068,Tanahu,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.028
+2011,2068,Tanahu,Gandaki,Hill,Western,Poverty Gap,0.033
+2011,2068,Tanahu,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.008
+2011,2068,Tanahu,Gandaki,Hill,Western,Poverty Severity,0.011
+2011,2068,Tanahu,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.003
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Population,126404.0
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Poverty Incidence,0.27
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Standard Error of Poverty Incidence,0.034
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Poverty Gap,0.055
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Standard Error of Poverty Gap,0.01
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Poverty Severity,0.017
+2011,2068,Taplejung,Mechi,Mountain,Eastern,Standard Error of Poverty Severity,0.004
+2011,2068,Terhathum,Kosi,Hill,Eastern,Population,100805.0
+2011,2068,Terhathum,Kosi,Hill,Eastern,Poverty Incidence,0.146
+2011,2068,Terhathum,Kosi,Hill,Eastern,Standard Error of Poverty Incidence,0.02
+2011,2068,Terhathum,Kosi,Hill,Eastern,Poverty Gap,0.025
+2011,2068,Terhathum,Kosi,Hill,Eastern,Standard Error of Poverty Gap,0.005
+2011,2068,Terhathum,Kosi,Hill,Eastern,Poverty Severity,0.006999999999999999
+2011,2068,Terhathum,Kosi,Hill,Eastern,Standard Error of Poverty Severity,0.002
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Population,315251.0
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Poverty Incidence,0.259
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Standard Error of Poverty Incidence,0.022
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Poverty Gap,0.058
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Standard Error of Poverty Gap,0.006999999999999999
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Poverty Severity,0.019
+2011,2068,Udayapur,Sagarmatha,Hill,Eastern,Standard Error of Poverty Severity,0.003
+2001,2058,Taplejung,Mechi,Mountain,Eastern,Poverty Incidence,0.518
+2001,2058,Taplejung,Mechi,Mountain,Eastern,Standard Error of Poverty Incidence,0.025
+2001,2058,Taplejung,Mechi,Mountain,Eastern,Poverty Gap,0.17
+2001,2058,Taplejung,Mechi,Mountain,Eastern,Standard Error of Poverty Gap,0.012
+2001,2058,Taplejung,Mechi,Mountain,Eastern,Poverty Severity,0.075
+2001,2058,Taplejung,Mechi,Mountain,Eastern,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Panchthar,Mechi,Hill,Eastern,Poverty Incidence,0.525
+2001,2058,Panchthar,Mechi,Hill,Eastern,Standard Error of Poverty Incidence,0.022
+2001,2058,Panchthar,Mechi,Hill,Eastern,Poverty Gap,0.17
+2001,2058,Panchthar,Mechi,Hill,Eastern,Standard Error of Poverty Gap,0.011
+2001,2058,Panchthar,Mechi,Hill,Eastern,Poverty Severity,0.07400000000000001
+2001,2058,Panchthar,Mechi,Hill,Eastern,Standard Error of Poverty Severity,0.006
+2001,2058,Ilam,Mechi,Hill,Eastern,Poverty Incidence,0.397
+2001,2058,Ilam,Mechi,Hill,Eastern,Standard Error of Poverty Incidence,0.017
+2001,2058,Ilam,Mechi,Hill,Eastern,Poverty Gap,0.121
+2001,2058,Ilam,Mechi,Hill,Eastern,Standard Error of Poverty Gap,0.008
+2001,2058,Ilam,Mechi,Hill,Eastern,Poverty Severity,0.051
+2001,2058,Ilam,Mechi,Hill,Eastern,Standard Error of Poverty Severity,0.005
+2001,2058,Jhapa,Mechi,Terai,Eastern,Poverty Incidence,0.134
+2001,2058,Jhapa,Mechi,Terai,Eastern,Standard Error of Poverty Incidence,0.013
+2001,2058,Jhapa,Mechi,Terai,Eastern,Poverty Gap,0.031
+2001,2058,Jhapa,Mechi,Terai,Eastern,Standard Error of Poverty Gap,0.004
+2001,2058,Jhapa,Mechi,Terai,Eastern,Poverty Severity,0.011
+2001,2058,Jhapa,Mechi,Terai,Eastern,Standard Error of Poverty Severity,0.001
+2001,2058,Morang,Kosi,Terai,Eastern,Poverty Incidence,0.172
+2001,2058,Morang,Kosi,Terai,Eastern,Standard Error of Poverty Incidence,0.011
+2001,2058,Morang,Kosi,Terai,Eastern,Poverty Gap,0.041
+2001,2058,Morang,Kosi,Terai,Eastern,Standard Error of Poverty Gap,0.003
+2001,2058,Morang,Kosi,Terai,Eastern,Poverty Severity,0.015
+2001,2058,Morang,Kosi,Terai,Eastern,Standard Error of Poverty Severity,0.001
+2001,2058,Sunsari,Kosi,Terai,Eastern,Poverty Incidence,0.212
+2001,2058,Sunsari,Kosi,Terai,Eastern,Standard Error of Poverty Incidence,0.014
+2001,2058,Sunsari,Kosi,Terai,Eastern,Poverty Gap,0.052000000000000005
+2001,2058,Sunsari,Kosi,Terai,Eastern,Standard Error of Poverty Gap,0.004
+2001,2058,Sunsari,Kosi,Terai,Eastern,Poverty Severity,0.019
+2001,2058,Sunsari,Kosi,Terai,Eastern,Standard Error of Poverty Severity,0.002
+2001,2058,Dhankuta,Kosi,Hill,Eastern,Poverty Incidence,0.46
+2001,2058,Dhankuta,Kosi,Hill,Eastern,Standard Error of Poverty Incidence,0.021
+2001,2058,Dhankuta,Kosi,Hill,Eastern,Poverty Gap,0.14400000000000002
+2001,2058,Dhankuta,Kosi,Hill,Eastern,Standard Error of Poverty Gap,0.01
+2001,2058,Dhankuta,Kosi,Hill,Eastern,Poverty Severity,0.062
+2001,2058,Dhankuta,Kosi,Hill,Eastern,Standard Error of Poverty Severity,0.005
+2001,2058,Terhathum,Kosi,Hill,Eastern,Poverty Incidence,0.425
+2001,2058,Terhathum,Kosi,Hill,Eastern,Standard Error of Poverty Incidence,0.022
+2001,2058,Terhathum,Kosi,Hill,Eastern,Poverty Gap,0.13
+2001,2058,Terhathum,Kosi,Hill,Eastern,Standard Error of Poverty Gap,0.01
+2001,2058,Terhathum,Kosi,Hill,Eastern,Poverty Severity,0.055
+2001,2058,Terhathum,Kosi,Hill,Eastern,Standard Error of Poverty Severity,0.005
+2001,2058,Sankhuwasabha,Kosi,Mountain,Eastern,Poverty Incidence,0.487
+2001,2058,Sankhuwasabha,Kosi,Mountain,Eastern,Standard Error of Poverty Incidence,0.026
+2001,2058,Sankhuwasabha,Kosi,Mountain,Eastern,Poverty Gap,0.151
+2001,2058,Sankhuwasabha,Kosi,Mountain,Eastern,Standard Error of Poverty Gap,0.011
+2001,2058,Sankhuwasabha,Kosi,Mountain,Eastern,Poverty Severity,0.064
+2001,2058,Sankhuwasabha,Kosi,Mountain,Eastern,Standard Error of Poverty Severity,0.006
+2001,2058,Bhojpur,Kosi,Hill,Eastern,Poverty Incidence,0.525
+2001,2058,Bhojpur,Kosi,Hill,Eastern,Standard Error of Poverty Incidence,0.021
+2001,2058,Bhojpur,Kosi,Hill,Eastern,Poverty Gap,0.168
+2001,2058,Bhojpur,Kosi,Hill,Eastern,Standard Error of Poverty Gap,0.01
+2001,2058,Bhojpur,Kosi,Hill,Eastern,Poverty Severity,0.073
+2001,2058,Bhojpur,Kosi,Hill,Eastern,Standard Error of Poverty Severity,0.006
+2001,2058,Solukhumbu,Sagarmatha,Mountain,Eastern,Poverty Incidence,0.463
+2001,2058,Solukhumbu,Sagarmatha,Mountain,Eastern,Standard Error of Poverty Incidence,0.037000000000000005
+2001,2058,Solukhumbu,Sagarmatha,Mountain,Eastern,Poverty Gap,0.141
+2001,2058,Solukhumbu,Sagarmatha,Mountain,Eastern,Standard Error of Poverty Gap,0.016
+2001,2058,Solukhumbu,Sagarmatha,Mountain,Eastern,Poverty Severity,0.059
+2001,2058,Solukhumbu,Sagarmatha,Mountain,Eastern,Standard Error of Poverty Severity,0.008
+2001,2058,Okhaldhunga,Sagarmatha,Hill,Eastern,Poverty Incidence,0.4270000000000001
+2001,2058,Okhaldhunga,Sagarmatha,Hill,Eastern,Standard Error of Poverty Incidence,0.034
+2001,2058,Okhaldhunga,Sagarmatha,Hill,Eastern,Poverty Gap,0.128
+2001,2058,Okhaldhunga,Sagarmatha,Hill,Eastern,Standard Error of Poverty Gap,0.014
+2001,2058,Okhaldhunga,Sagarmatha,Hill,Eastern,Poverty Severity,0.053
+2001,2058,Okhaldhunga,Sagarmatha,Hill,Eastern,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Khotang,Sagarmatha,Hill,Eastern,Poverty Incidence,0.535
+2001,2058,Khotang,Sagarmatha,Hill,Eastern,Standard Error of Poverty Incidence,0.023
+2001,2058,Khotang,Sagarmatha,Hill,Eastern,Poverty Gap,0.175
+2001,2058,Khotang,Sagarmatha,Hill,Eastern,Standard Error of Poverty Gap,0.012
+2001,2058,Khotang,Sagarmatha,Hill,Eastern,Poverty Severity,0.077
+2001,2058,Khotang,Sagarmatha,Hill,Eastern,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Udayapur,Sagarmatha,Hill,Eastern,Poverty Incidence,0.508
+2001,2058,Udayapur,Sagarmatha,Hill,Eastern,Standard Error of Poverty Incidence,0.021
+2001,2058,Udayapur,Sagarmatha,Hill,Eastern,Poverty Gap,0.161
+2001,2058,Udayapur,Sagarmatha,Hill,Eastern,Standard Error of Poverty Gap,0.01
+2001,2058,Udayapur,Sagarmatha,Hill,Eastern,Poverty Severity,0.069
+2001,2058,Udayapur,Sagarmatha,Hill,Eastern,Standard Error of Poverty Severity,0.006
+2001,2058,Saptari,Sagarmatha,Terai,Eastern,Poverty Incidence,0.28
+2001,2058,Saptari,Sagarmatha,Terai,Eastern,Standard Error of Poverty Incidence,0.017
+2001,2058,Saptari,Sagarmatha,Terai,Eastern,Poverty Gap,0.068
+2001,2058,Saptari,Sagarmatha,Terai,Eastern,Standard Error of Poverty Gap,0.005
+2001,2058,Saptari,Sagarmatha,Terai,Eastern,Poverty Severity,0.024
+2001,2058,Saptari,Sagarmatha,Terai,Eastern,Standard Error of Poverty Severity,0.002
+2001,2058,Siraha,Sagarmatha,Terai,Eastern,Poverty Incidence,0.29
+2001,2058,Siraha,Sagarmatha,Terai,Eastern,Standard Error of Poverty Incidence,0.018000000000000002
+2001,2058,Siraha,Sagarmatha,Terai,Eastern,Poverty Gap,0.07
+2001,2058,Siraha,Sagarmatha,Terai,Eastern,Standard Error of Poverty Gap,0.006
+2001,2058,Siraha,Sagarmatha,Terai,Eastern,Poverty Severity,0.025
+2001,2058,Siraha,Sagarmatha,Terai,Eastern,Standard Error of Poverty Severity,0.003
+2001,2058,Dhanusa,Janakpur,Terai,Central,Poverty Incidence,0.269
+2001,2058,Dhanusa,Janakpur,Terai,Central,Standard Error of Poverty Incidence,0.019
+2001,2058,Dhanusa,Janakpur,Terai,Central,Poverty Gap,0.063
+2001,2058,Dhanusa,Janakpur,Terai,Central,Standard Error of Poverty Gap,0.006
+2001,2058,Dhanusa,Janakpur,Terai,Central,Poverty Severity,0.022
+2001,2058,Dhanusa,Janakpur,Terai,Central,Standard Error of Poverty Severity,0.002
+2001,2058,Mahottari,Janakpur,Terai,Central,Poverty Incidence,0.29100000000000004
+2001,2058,Mahottari,Janakpur,Terai,Central,Standard Error of Poverty Incidence,0.023
+2001,2058,Mahottari,Janakpur,Terai,Central,Poverty Gap,0.069
+2001,2058,Mahottari,Janakpur,Terai,Central,Standard Error of Poverty Gap,0.008
+2001,2058,Mahottari,Janakpur,Terai,Central,Poverty Severity,0.024
+2001,2058,Mahottari,Janakpur,Terai,Central,Standard Error of Poverty Severity,0.003
+2001,2058,Sarlahi,Janakpur,Terai,Central,Poverty Incidence,0.264
+2001,2058,Sarlahi,Janakpur,Terai,Central,Standard Error of Poverty Incidence,0.022
+2001,2058,Sarlahi,Janakpur,Terai,Central,Poverty Gap,0.061
+2001,2058,Sarlahi,Janakpur,Terai,Central,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Sarlahi,Janakpur,Terai,Central,Poverty Severity,0.021
+2001,2058,Sarlahi,Janakpur,Terai,Central,Standard Error of Poverty Severity,0.003
+2001,2058,Sindhuli,Janakpur,Hill,Central,Poverty Incidence,0.603
+2001,2058,Sindhuli,Janakpur,Hill,Central,Standard Error of Poverty Incidence,0.018000000000000002
+2001,2058,Sindhuli,Janakpur,Hill,Central,Poverty Gap,0.209
+2001,2058,Sindhuli,Janakpur,Hill,Central,Standard Error of Poverty Gap,0.012
+2001,2058,Sindhuli,Janakpur,Hill,Central,Poverty Severity,0.094
+2001,2058,Sindhuli,Janakpur,Hill,Central,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Ramechhap,Janakpur,Hill,Central,Poverty Incidence,0.48
+2001,2058,Ramechhap,Janakpur,Hill,Central,Standard Error of Poverty Incidence,0.023
+2001,2058,Ramechhap,Janakpur,Hill,Central,Poverty Gap,0.14800000000000002
+2001,2058,Ramechhap,Janakpur,Hill,Central,Standard Error of Poverty Gap,0.011
+2001,2058,Ramechhap,Janakpur,Hill,Central,Poverty Severity,0.063
+2001,2058,Ramechhap,Janakpur,Hill,Central,Standard Error of Poverty Severity,0.006
+2001,2058,Dolakha,Janakpur,Mountain,Central,Poverty Incidence,0.336
+2001,2058,Dolakha,Janakpur,Mountain,Central,Standard Error of Poverty Incidence,0.017
+2001,2058,Dolakha,Janakpur,Mountain,Central,Poverty Gap,0.092
+2001,2058,Dolakha,Janakpur,Mountain,Central,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Dolakha,Janakpur,Mountain,Central,Poverty Severity,0.036000000000000004
+2001,2058,Dolakha,Janakpur,Mountain,Central,Standard Error of Poverty Severity,0.003
+2001,2058,Sindhupalchok,Bagmati,Mountain,Central,Poverty Incidence,0.37
+2001,2058,Sindhupalchok,Bagmati,Mountain,Central,Standard Error of Poverty Incidence,0.016
+2001,2058,Sindhupalchok,Bagmati,Mountain,Central,Poverty Gap,0.102
+2001,2058,Sindhupalchok,Bagmati,Mountain,Central,Standard Error of Poverty Gap,0.006
+2001,2058,Sindhupalchok,Bagmati,Mountain,Central,Poverty Severity,0.04
+2001,2058,Sindhupalchok,Bagmati,Mountain,Central,Standard Error of Poverty Severity,0.003
+2001,2058,Kavre,Bagmati,Hill,Central,Poverty Incidence,0.35100000000000003
+2001,2058,Kavre,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.014
+2001,2058,Kavre,Bagmati,Hill,Central,Poverty Gap,0.111
+2001,2058,Kavre,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Kavre,Bagmati,Hill,Central,Poverty Severity,0.048
+2001,2058,Kavre,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.004
+2001,2058,Lalitpur,Bagmati,Hill,Central,Poverty Incidence,0.101
+2001,2058,Lalitpur,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.009000000000000001
+2001,2058,Lalitpur,Bagmati,Hill,Central,Poverty Gap,0.028
+2001,2058,Lalitpur,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.003
+2001,2058,Lalitpur,Bagmati,Hill,Central,Poverty Severity,0.011
+2001,2058,Lalitpur,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.001
+2001,2058,Bhaktapur,Bagmati,Hill,Central,Poverty Incidence,0.087
+2001,2058,Bhaktapur,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.014
+2001,2058,Bhaktapur,Bagmati,Hill,Central,Poverty Gap,0.02
+2001,2058,Bhaktapur,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.004
+2001,2058,Bhaktapur,Bagmati,Hill,Central,Poverty Severity,0.006999999999999999
+2001,2058,Bhaktapur,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.002
+2001,2058,Kathmandu,Bagmati,Hill,Central,Poverty Incidence,0.044
+2001,2058,Kathmandu,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.006999999999999999
+2001,2058,Kathmandu,Bagmati,Hill,Central,Poverty Gap,0.01
+2001,2058,Kathmandu,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.002
+2001,2058,Kathmandu,Bagmati,Hill,Central,Poverty Severity,0.004
+2001,2058,Kathmandu,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.001
+2001,2058,Nuwakot,Bagmati,Hill,Central,Poverty Incidence,0.374
+2001,2058,Nuwakot,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.016
+2001,2058,Nuwakot,Bagmati,Hill,Central,Poverty Gap,0.109
+2001,2058,Nuwakot,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Nuwakot,Bagmati,Hill,Central,Poverty Severity,0.044
+2001,2058,Nuwakot,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.004
+2001,2058,Rasuwa,Bagmati,Mountain,Central,Poverty Incidence,0.509
+2001,2058,Rasuwa,Bagmati,Mountain,Central,Standard Error of Poverty Incidence,0.026
+2001,2058,Rasuwa,Bagmati,Mountain,Central,Poverty Gap,0.162
+2001,2058,Rasuwa,Bagmati,Mountain,Central,Standard Error of Poverty Gap,0.014
+2001,2058,Rasuwa,Bagmati,Mountain,Central,Poverty Severity,0.069
+2001,2058,Rasuwa,Bagmati,Mountain,Central,Standard Error of Poverty Severity,0.008
+2001,2058,Dhading,Bagmati,Hill,Central,Poverty Incidence,0.433
+2001,2058,Dhading,Bagmati,Hill,Central,Standard Error of Poverty Incidence,0.017
+2001,2058,Dhading,Bagmati,Hill,Central,Poverty Gap,0.133
+2001,2058,Dhading,Bagmati,Hill,Central,Standard Error of Poverty Gap,0.008
+2001,2058,Dhading,Bagmati,Hill,Central,Poverty Severity,0.056
+2001,2058,Dhading,Bagmati,Hill,Central,Standard Error of Poverty Severity,0.004
+2001,2058,Makwanpur,Narayani,Hill,Central,Poverty Incidence,0.43
+2001,2058,Makwanpur,Narayani,Hill,Central,Standard Error of Poverty Incidence,0.016
+2001,2058,Makwanpur,Narayani,Hill,Central,Poverty Gap,0.141
+2001,2058,Makwanpur,Narayani,Hill,Central,Standard Error of Poverty Gap,0.01
+2001,2058,Makwanpur,Narayani,Hill,Central,Poverty Severity,0.062
+2001,2058,Makwanpur,Narayani,Hill,Central,Standard Error of Poverty Severity,0.006
+2001,2058,Rautahat,Narayani,Terai,Central,Poverty Incidence,0.302
+2001,2058,Rautahat,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.021
+2001,2058,Rautahat,Narayani,Terai,Central,Poverty Gap,0.071
+2001,2058,Rautahat,Narayani,Terai,Central,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Rautahat,Narayani,Terai,Central,Poverty Severity,0.025
+2001,2058,Rautahat,Narayani,Terai,Central,Standard Error of Poverty Severity,0.003
+2001,2058,Bara,Narayani,Terai,Central,Poverty Incidence,0.269
+2001,2058,Bara,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.022
+2001,2058,Bara,Narayani,Terai,Central,Poverty Gap,0.063
+2001,2058,Bara,Narayani,Terai,Central,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Bara,Narayani,Terai,Central,Poverty Severity,0.022
+2001,2058,Bara,Narayani,Terai,Central,Standard Error of Poverty Severity,0.003
+2001,2058,Parsa,Narayani,Terai,Central,Poverty Incidence,0.235
+2001,2058,Parsa,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.019
+2001,2058,Parsa,Narayani,Terai,Central,Poverty Gap,0.055
+2001,2058,Parsa,Narayani,Terai,Central,Standard Error of Poverty Gap,0.006
+2001,2058,Parsa,Narayani,Terai,Central,Poverty Severity,0.019
+2001,2058,Parsa,Narayani,Terai,Central,Standard Error of Poverty Severity,0.002
+2001,2058,Chitawan,Narayani,Terai,Central,Poverty Incidence,0.119
+2001,2058,Chitawan,Narayani,Terai,Central,Standard Error of Poverty Incidence,0.01
+2001,2058,Chitawan,Narayani,Terai,Central,Poverty Gap,0.029
+2001,2058,Chitawan,Narayani,Terai,Central,Standard Error of Poverty Gap,0.003
+2001,2058,Chitawan,Narayani,Terai,Central,Poverty Severity,0.011
+2001,2058,Chitawan,Narayani,Terai,Central,Standard Error of Poverty Severity,0.001
+2001,2058,Gorkha,Gandaki,Hill,Western,Poverty Incidence,0.382
+2001,2058,Gorkha,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.017
+2001,2058,Gorkha,Gandaki,Hill,Western,Poverty Gap,0.112
+2001,2058,Gorkha,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Gorkha,Gandaki,Hill,Western,Poverty Severity,0.046
+2001,2058,Gorkha,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.004
+2001,2058,Lamjung,Gandaki,Hill,Western,Poverty Incidence,0.315
+2001,2058,Lamjung,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.016
+2001,2058,Lamjung,Gandaki,Hill,Western,Poverty Gap,0.091
+2001,2058,Lamjung,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.006
+2001,2058,Lamjung,Gandaki,Hill,Western,Poverty Severity,0.037000000000000005
+2001,2058,Lamjung,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.003
+2001,2058,Tanahu,Gandaki,Hill,Western,Poverty Incidence,0.34600000000000003
+2001,2058,Tanahu,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.019
+2001,2058,Tanahu,Gandaki,Hill,Western,Poverty Gap,0.105
+2001,2058,Tanahu,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.008
+2001,2058,Tanahu,Gandaki,Hill,Western,Poverty Severity,0.044
+2001,2058,Tanahu,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.005
+2001,2058,Syangja,Gandaki,Hill,Western,Poverty Incidence,0.35100000000000003
+2001,2058,Syangja,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.02
+2001,2058,Syangja,Gandaki,Hill,Western,Poverty Gap,0.105
+2001,2058,Syangja,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.009000000000000001
+2001,2058,Syangja,Gandaki,Hill,Western,Poverty Severity,0.044
+2001,2058,Syangja,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.005
+2001,2058,Kaski,Gandaki,Hill,Western,Poverty Incidence,0.111
+2001,2058,Kaski,Gandaki,Hill,Western,Standard Error of Poverty Incidence,0.008
+2001,2058,Kaski,Gandaki,Hill,Western,Poverty Gap,0.029
+2001,2058,Kaski,Gandaki,Hill,Western,Standard Error of Poverty Gap,0.003
+2001,2058,Kaski,Gandaki,Hill,Western,Poverty Severity,0.012
+2001,2058,Kaski,Gandaki,Hill,Western,Standard Error of Poverty Severity,0.001
+2001,2058,Manang,Gandaki,Mountain,Western,Poverty Incidence,0.212
+2001,2058,Manang,Gandaki,Mountain,Western,Standard Error of Poverty Incidence,0.048
+2001,2058,Manang,Gandaki,Mountain,Western,Poverty Gap,0.051
+2001,2058,Manang,Gandaki,Mountain,Western,Standard Error of Poverty Gap,0.015
+2001,2058,Manang,Gandaki,Mountain,Western,Poverty Severity,0.018000000000000002
+2001,2058,Manang,Gandaki,Mountain,Western,Standard Error of Poverty Severity,0.006
+2001,2058,Mustang,Dhawalagiri,Mountain,Western,Poverty Incidence,0.258
+2001,2058,Mustang,Dhawalagiri,Mountain,Western,Standard Error of Poverty Incidence,0.043
+2001,2058,Mustang,Dhawalagiri,Mountain,Western,Poverty Gap,0.064
+2001,2058,Mustang,Dhawalagiri,Mountain,Western,Standard Error of Poverty Gap,0.015
+2001,2058,Mustang,Dhawalagiri,Mountain,Western,Poverty Severity,0.023
+2001,2058,Mustang,Dhawalagiri,Mountain,Western,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Myagdi,Dhawalagiri,Hill,Western,Poverty Incidence,0.348
+2001,2058,Myagdi,Dhawalagiri,Hill,Western,Standard Error of Poverty Incidence,0.021
+2001,2058,Myagdi,Dhawalagiri,Hill,Western,Poverty Gap,0.098
+2001,2058,Myagdi,Dhawalagiri,Hill,Western,Standard Error of Poverty Gap,0.008
+2001,2058,Myagdi,Dhawalagiri,Hill,Western,Poverty Severity,0.039
+2001,2058,Myagdi,Dhawalagiri,Hill,Western,Standard Error of Poverty Severity,0.004
+2001,2058,Parbat,Dhawalagiri,Hill,Western,Poverty Incidence,0.341
+2001,2058,Parbat,Dhawalagiri,Hill,Western,Standard Error of Poverty Incidence,0.017
+2001,2058,Parbat,Dhawalagiri,Hill,Western,Poverty Gap,0.1
+2001,2058,Parbat,Dhawalagiri,Hill,Western,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Parbat,Dhawalagiri,Hill,Western,Poverty Severity,0.041
+2001,2058,Parbat,Dhawalagiri,Hill,Western,Standard Error of Poverty Severity,0.004
+2001,2058,Baglung,Dhawalagiri,Hill,Western,Poverty Incidence,0.402
+2001,2058,Baglung,Dhawalagiri,Hill,Western,Standard Error of Poverty Incidence,0.018000000000000002
+2001,2058,Baglung,Dhawalagiri,Hill,Western,Poverty Gap,0.12
+2001,2058,Baglung,Dhawalagiri,Hill,Western,Standard Error of Poverty Gap,0.008
+2001,2058,Baglung,Dhawalagiri,Hill,Western,Poverty Severity,0.05
+2001,2058,Baglung,Dhawalagiri,Hill,Western,Standard Error of Poverty Severity,0.004
+2001,2058,Gulmi,Lumbini,Hill,Western,Poverty Incidence,0.425
+2001,2058,Gulmi,Lumbini,Hill,Western,Standard Error of Poverty Incidence,0.019
+2001,2058,Gulmi,Lumbini,Hill,Western,Poverty Gap,0.131
+2001,2058,Gulmi,Lumbini,Hill,Western,Standard Error of Poverty Gap,0.009000000000000001
+2001,2058,Gulmi,Lumbini,Hill,Western,Poverty Severity,0.056
+2001,2058,Gulmi,Lumbini,Hill,Western,Standard Error of Poverty Severity,0.005
+2001,2058,Palpa,Lumbini,Hill,Western,Poverty Incidence,0.429
+2001,2058,Palpa,Lumbini,Hill,Western,Standard Error of Poverty Incidence,0.02
+2001,2058,Palpa,Lumbini,Hill,Western,Poverty Gap,0.135
+2001,2058,Palpa,Lumbini,Hill,Western,Standard Error of Poverty Gap,0.01
+2001,2058,Palpa,Lumbini,Hill,Western,Poverty Severity,0.058
+2001,2058,Palpa,Lumbini,Hill,Western,Standard Error of Poverty Severity,0.006
+2001,2058,Nawalparasi,Lumbini,Terai,Western,Poverty Incidence,0.363
+2001,2058,Nawalparasi,Lumbini,Terai,Western,Standard Error of Poverty Incidence,0.017
+2001,2058,Nawalparasi,Lumbini,Terai,Western,Poverty Gap,0.109
+2001,2058,Nawalparasi,Lumbini,Terai,Western,Standard Error of Poverty Gap,0.006999999999999999
+2001,2058,Nawalparasi,Lumbini,Terai,Western,Poverty Severity,0.045
+2001,2058,Nawalparasi,Lumbini,Terai,Western,Standard Error of Poverty Severity,0.004
+2001,2058,Rupandehi,Lumbini,Terai,Western,Poverty Incidence,0.3
+2001,2058,Rupandehi,Lumbini,Terai,Western,Standard Error of Poverty Incidence,0.02
+2001,2058,Rupandehi,Lumbini,Terai,Western,Poverty Gap,0.084
+2001,2058,Rupandehi,Lumbini,Terai,Western,Standard Error of Poverty Gap,0.008
+2001,2058,Rupandehi,Lumbini,Terai,Western,Poverty Severity,0.034
+2001,2058,Rupandehi,Lumbini,Terai,Western,Standard Error of Poverty Severity,0.004
+2001,2058,Kapilbastu,Lumbini,Terai,Western,Poverty Incidence,0.401
+2001,2058,Kapilbastu,Lumbini,Terai,Western,Standard Error of Poverty Incidence,0.026
+2001,2058,Kapilbastu,Lumbini,Terai,Western,Poverty Gap,0.115
+2001,2058,Kapilbastu,Lumbini,Terai,Western,Standard Error of Poverty Gap,0.011
+2001,2058,Kapilbastu,Lumbini,Terai,Western,Poverty Severity,0.046
+2001,2058,Kapilbastu,Lumbini,Terai,Western,Standard Error of Poverty Severity,0.005
+2001,2058,Arghakhanchi,Lumbini,Hill,Western,Poverty Incidence,0.441
+2001,2058,Arghakhanchi,Lumbini,Hill,Western,Standard Error of Poverty Incidence,0.02
+2001,2058,Arghakhanchi,Lumbini,Hill,Western,Poverty Gap,0.13699999999999998
+2001,2058,Arghakhanchi,Lumbini,Hill,Western,Standard Error of Poverty Gap,0.009000000000000001
+2001,2058,Arghakhanchi,Lumbini,Hill,Western,Poverty Severity,0.059
+2001,2058,Arghakhanchi,Lumbini,Hill,Western,Standard Error of Poverty Severity,0.005
+2001,2058,Pyuthan,Rapti,Hill,Mid-Western,Poverty Incidence,0.515
+2001,2058,Pyuthan,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.023
+2001,2058,Pyuthan,Rapti,Hill,Mid-Western,Poverty Gap,0.16399999999999998
+2001,2058,Pyuthan,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.012
+2001,2058,Pyuthan,Rapti,Hill,Mid-Western,Poverty Severity,0.071
+2001,2058,Pyuthan,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Rolpa,Rapti,Hill,Mid-Western,Poverty Incidence,0.5870000000000001
+2001,2058,Rolpa,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.025
+2001,2058,Rolpa,Rapti,Hill,Mid-Western,Poverty Gap,0.184
+2001,2058,Rolpa,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.013
+2001,2058,Rolpa,Rapti,Hill,Mid-Western,Poverty Severity,0.078
+2001,2058,Rolpa,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Rukum,Rapti,Hill,Mid-Western,Poverty Incidence,0.491
+2001,2058,Rukum,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.029
+2001,2058,Rukum,Rapti,Hill,Mid-Western,Poverty Gap,0.14300000000000002
+2001,2058,Rukum,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.013
+2001,2058,Rukum,Rapti,Hill,Mid-Western,Poverty Severity,0.058
+2001,2058,Rukum,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Salyan,Rapti,Hill,Mid-Western,Poverty Incidence,0.455
+2001,2058,Salyan,Rapti,Hill,Mid-Western,Standard Error of Poverty Incidence,0.025
+2001,2058,Salyan,Rapti,Hill,Mid-Western,Poverty Gap,0.133
+2001,2058,Salyan,Rapti,Hill,Mid-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Salyan,Rapti,Hill,Mid-Western,Poverty Severity,0.054000000000000006
+2001,2058,Salyan,Rapti,Hill,Mid-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Dang,Rapti,Terai,Mid-Western,Poverty Incidence,0.429
+2001,2058,Dang,Rapti,Terai,Mid-Western,Standard Error of Poverty Incidence,0.018000000000000002
+2001,2058,Dang,Rapti,Terai,Mid-Western,Poverty Gap,0.127
+2001,2058,Dang,Rapti,Terai,Mid-Western,Standard Error of Poverty Gap,0.008
+2001,2058,Dang,Rapti,Terai,Mid-Western,Poverty Severity,0.052000000000000005
+2001,2058,Dang,Rapti,Terai,Mid-Western,Standard Error of Poverty Severity,0.004
+2001,2058,Banke,Bheri,Terai,Mid-Western,Poverty Incidence,0.412
+2001,2058,Banke,Bheri,Terai,Mid-Western,Standard Error of Poverty Incidence,0.024
+2001,2058,Banke,Bheri,Terai,Mid-Western,Poverty Gap,0.124
+2001,2058,Banke,Bheri,Terai,Mid-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Banke,Bheri,Terai,Mid-Western,Poverty Severity,0.051
+2001,2058,Banke,Bheri,Terai,Mid-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Bardiya,Bheri,Terai,Mid-Western,Poverty Incidence,0.449
+2001,2058,Bardiya,Bheri,Terai,Mid-Western,Standard Error of Poverty Incidence,0.026
+2001,2058,Bardiya,Bheri,Terai,Mid-Western,Poverty Gap,0.128
+2001,2058,Bardiya,Bheri,Terai,Mid-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Bardiya,Bheri,Terai,Mid-Western,Poverty Severity,0.051
+2001,2058,Bardiya,Bheri,Terai,Mid-Western,Standard Error of Poverty Severity,0.005
+2001,2058,Surkhet,Bheri,Hill,Mid-Western,Poverty Incidence,0.47
+2001,2058,Surkhet,Bheri,Hill,Mid-Western,Standard Error of Poverty Incidence,0.018000000000000002
+2001,2058,Surkhet,Bheri,Hill,Mid-Western,Poverty Gap,0.147
+2001,2058,Surkhet,Bheri,Hill,Mid-Western,Standard Error of Poverty Gap,0.009000000000000001
+2001,2058,Surkhet,Bheri,Hill,Mid-Western,Poverty Severity,0.062
+2001,2058,Surkhet,Bheri,Hill,Mid-Western,Standard Error of Poverty Severity,0.005
+2001,2058,Dailekh,Bheri,Hill,Mid-Western,Poverty Incidence,0.516
+2001,2058,Dailekh,Bheri,Hill,Mid-Western,Standard Error of Poverty Incidence,0.021
+2001,2058,Dailekh,Bheri,Hill,Mid-Western,Poverty Gap,0.159
+2001,2058,Dailekh,Bheri,Hill,Mid-Western,Standard Error of Poverty Gap,0.01
+2001,2058,Dailekh,Bheri,Hill,Mid-Western,Poverty Severity,0.067
+2001,2058,Dailekh,Bheri,Hill,Mid-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Jajarkot,Bheri,Hill,Mid-Western,Poverty Incidence,0.441
+2001,2058,Jajarkot,Bheri,Hill,Mid-Western,Standard Error of Poverty Incidence,0.025
+2001,2058,Jajarkot,Bheri,Hill,Mid-Western,Poverty Gap,0.124
+2001,2058,Jajarkot,Bheri,Hill,Mid-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Jajarkot,Bheri,Hill,Mid-Western,Poverty Severity,0.049
+2001,2058,Jajarkot,Bheri,Hill,Mid-Western,Standard Error of Poverty Severity,0.005
+2001,2058,Dolpa,Karnali,Mountain,Mid-Western,Poverty Incidence,0.397
+2001,2058,Dolpa,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.054000000000000006
+2001,2058,Dolpa,Karnali,Mountain,Mid-Western,Poverty Gap,0.105
+2001,2058,Dolpa,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.02
+2001,2058,Dolpa,Karnali,Mountain,Mid-Western,Poverty Severity,0.04
+2001,2058,Dolpa,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.009000000000000001
+2001,2058,Jumla,Karnali,Mountain,Mid-Western,Poverty Incidence,0.344
+2001,2058,Jumla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.044
+2001,2058,Jumla,Karnali,Mountain,Mid-Western,Poverty Gap,0.086
+2001,2058,Jumla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.014
+2001,2058,Jumla,Karnali,Mountain,Mid-Western,Poverty Severity,0.031
+2001,2058,Jumla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Kalikot,Karnali,Mountain,Mid-Western,Poverty Incidence,0.568
+2001,2058,Kalikot,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.061
+2001,2058,Kalikot,Karnali,Mountain,Mid-Western,Poverty Gap,0.18
+2001,2058,Kalikot,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.029
+2001,2058,Kalikot,Karnali,Mountain,Mid-Western,Poverty Severity,0.076
+2001,2058,Kalikot,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.016
+2001,2058,Mugu,Karnali,Mountain,Mid-Western,Poverty Incidence,0.51
+2001,2058,Mugu,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.04
+2001,2058,Mugu,Karnali,Mountain,Mid-Western,Poverty Gap,0.155
+2001,2058,Mugu,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.018000000000000002
+2001,2058,Mugu,Karnali,Mountain,Mid-Western,Poverty Severity,0.065
+2001,2058,Mugu,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.01
+2001,2058,Humla,Karnali,Mountain,Mid-Western,Poverty Incidence,0.415
+2001,2058,Humla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Incidence,0.043
+2001,2058,Humla,Karnali,Mountain,Mid-Western,Poverty Gap,0.111
+2001,2058,Humla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Gap,0.015
+2001,2058,Humla,Karnali,Mountain,Mid-Western,Poverty Severity,0.042
+2001,2058,Humla,Karnali,Mountain,Mid-Western,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Bajura,Seti,Mountain,Far-Western,Poverty Incidence,0.482
+2001,2058,Bajura,Seti,Mountain,Far-Western,Standard Error of Poverty Incidence,0.022
+2001,2058,Bajura,Seti,Mountain,Far-Western,Poverty Gap,0.14800000000000002
+2001,2058,Bajura,Seti,Mountain,Far-Western,Standard Error of Poverty Gap,0.01
+2001,2058,Bajura,Seti,Mountain,Far-Western,Poverty Severity,0.063
+2001,2058,Bajura,Seti,Mountain,Far-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Bajhang,Seti,Mountain,Far-Western,Poverty Incidence,0.473
+2001,2058,Bajhang,Seti,Mountain,Far-Western,Standard Error of Poverty Incidence,0.025
+2001,2058,Bajhang,Seti,Mountain,Far-Western,Poverty Gap,0.14300000000000002
+2001,2058,Bajhang,Seti,Mountain,Far-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Bajhang,Seti,Mountain,Far-Western,Poverty Severity,0.06
+2001,2058,Bajhang,Seti,Mountain,Far-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Achham,Seti,Hill,Far-Western,Poverty Incidence,0.516
+2001,2058,Achham,Seti,Hill,Far-Western,Standard Error of Poverty Incidence,0.023
+2001,2058,Achham,Seti,Hill,Far-Western,Poverty Gap,0.16
+2001,2058,Achham,Seti,Hill,Far-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Achham,Seti,Hill,Far-Western,Poverty Severity,0.068
+2001,2058,Achham,Seti,Hill,Far-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Doti,Seti,Hill,Far-Western,Poverty Incidence,0.464
+2001,2058,Doti,Seti,Hill,Far-Western,Standard Error of Poverty Incidence,0.024
+2001,2058,Doti,Seti,Hill,Far-Western,Poverty Gap,0.14300000000000002
+2001,2058,Doti,Seti,Hill,Far-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Doti,Seti,Hill,Far-Western,Poverty Severity,0.061
+2001,2058,Doti,Seti,Hill,Far-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Kailali,Seti,Terai,Far-Western,Poverty Incidence,0.504
+2001,2058,Kailali,Seti,Terai,Far-Western,Standard Error of Poverty Incidence,0.026
+2001,2058,Kailali,Seti,Terai,Far-Western,Poverty Gap,0.155
+2001,2058,Kailali,Seti,Terai,Far-Western,Standard Error of Poverty Gap,0.012
+2001,2058,Kailali,Seti,Terai,Far-Western,Poverty Severity,0.065
+2001,2058,Kailali,Seti,Terai,Far-Western,Standard Error of Poverty Severity,0.006999999999999999
+2001,2058,Kanchanpur,Mahakali,Terai,Far-Western,Poverty Incidence,0.424
+2001,2058,Kanchanpur,Mahakali,Terai,Far-Western,Standard Error of Poverty Incidence,0.024
+2001,2058,Kanchanpur,Mahakali,Terai,Far-Western,Poverty Gap,0.128
+2001,2058,Kanchanpur,Mahakali,Terai,Far-Western,Standard Error of Poverty Gap,0.011
+2001,2058,Kanchanpur,Mahakali,Terai,Far-Western,Poverty Severity,0.054000000000000006
+2001,2058,Kanchanpur,Mahakali,Terai,Far-Western,Standard Error of Poverty Severity,0.006
+2001,2058,Dadeldhura,Mahakali,Hill,Far-Western,Poverty Incidence,0.403
+2001,2058,Dadeldhura,Mahakali,Hill,Far-Western,Standard Error of Poverty Incidence,0.024
+2001,2058,Dadeldhura,Mahakali,Hill,Far-Western,Poverty Gap,0.119
+2001,2058,Dadeldhura,Mahakali,Hill,Far-Western,Standard Error of Poverty Gap,0.01
+2001,2058,Dadeldhura,Mahakali,Hill,Far-Western,Poverty Severity,0.049
+2001,2058,Dadeldhura,Mahakali,Hill,Far-Western,Standard Error of Poverty Severity,0.005
+2001,2058,Baitadi,Mahakali,Hill,Far-Western,Poverty Incidence,0.368
+2001,2058,Baitadi,Mahakali,Hill,Far-Western,Standard Error of Poverty Incidence,0.025
+2001,2058,Baitadi,Mahakali,Hill,Far-Western,Poverty Gap,0.101
+2001,2058,Baitadi,Mahakali,Hill,Far-Western,Standard Error of Poverty Gap,0.01
+2001,2058,Baitadi,Mahakali,Hill,Far-Western,Poverty Severity,0.04
+2001,2058,Baitadi,Mahakali,Hill,Far-Western,Standard Error of Poverty Severity,0.005
+2001,2058,Darchaula,Mahakali,Mountain,Far-Western,Poverty Incidence,0.377
+2001,2058,Darchaula,Mahakali,Mountain,Far-Western,Standard Error of Poverty Incidence,0.024
+2001,2058,Darchaula,Mahakali,Mountain,Far-Western,Poverty Gap,0.109
+2001,2058,Darchaula,Mahakali,Mountain,Far-Western,Standard Error of Poverty Gap,0.01
+2001,2058,Darchaula,Mahakali,Mountain,Far-Western,Poverty Severity,0.044
+2001,2058,Darchaula,Mahakali,Mountain,Far-Western,Standard Error of Poverty Severity,0.005
